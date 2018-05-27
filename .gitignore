@@ -12,3 +12,4 @@ favicon*
 site.webmanifest
 mstile-*.png
 safari-pinned-tab.svg
+.jekyll-cache/

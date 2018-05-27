@@ -1,13 +1,13 @@
 ---
 global:
-  title: The Fifth International Improv Festival Tilt
+  title: The 6th International Improv Festival Tilt
   description: >
-    The Fifth International Improv Festival Tilt brings
+    The Sixth International Improv Festival Tilt brings
     you the overview of Estonian improv theatres and also best
     improv actors and teachers from all over the world! Welcome
     to the party of spontaneous theatre!
-  dates: September 21 - 23 2017 in Tallinn
-  title_short: The 5th International Improv Festival
+  dates: September 20 - 22 2017 in Tallinn
+  title_short: The 6th International Improv Festival
   english: Eng
   estonian: Est
 menu:
@@ -21,8 +21,12 @@ menu:
   team: Team
   close: Close
 
+tilt:
+  six:
+    heading: Tilt 6 is coming, Tilt 6 is coming!
+    intro: The 6th Tilt festival will take place in Tallinn, on September 20 - 22. We're currently working on organizing it, more information to appear in the following months.
 stats:
-  total_years: 5 years
+  total_years: 6 years
   total_performances: 61 performances
   total_workshops: 36 workshops
 

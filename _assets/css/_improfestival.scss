@@ -56,7 +56,7 @@ i {
   }
 
   + .row {
-    background-image: url(image_path('header.jpg'));
+    background-image: asset_url('header.jpg');
     background-size: cover;
     min-height: 30em;
   }
@@ -230,7 +230,7 @@ button {
 }
 
 .row.footer-bg {
-  background-image: url(image_path('footer_narrow.jpg'));
+  background-image: asset_url('footer_narrow.jpg');
   background-size: cover;
   margin-bottom: -9em;
   min-height: 30em;

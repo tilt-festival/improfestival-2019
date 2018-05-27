@@ -1,13 +1,13 @@
 ---
 global:
-  title: Viies Rahvusvaheline Improteatrite Festival Tilt
+  title: Kuues Rahvusvaheline Improteatrite Festival Tilt
   description: >
-    Viies rahvusvaheline improteatrite festival Tilt toob
+    Kuues rahvusvaheline improteatrite festival Tilt toob
     teie ette ülevaate Eesti improteatritest ning parimad
     impronäitlejad ja -koolitajad üle kogu maailma! Olete
     palutud spontaanse teatri peole!
-  dates: 21.-23. september, 2017
-  title_short: Viies Rahvusvaheline Improteatrite Festival
+  dates: 20.-22. september, 2017
+  title_short: Kuues Rahvusvaheline Improteatrite Festival
   english: Eng
   estonian: Est
 menu:
@@ -21,6 +21,10 @@ menu:
   team: Korraldajad
   close: Sulge
 
+tilt:
+  six:
+    heading: Tilt 6 on tulekul!
+    intro: Kuues Tilt festival toimub 20 - 22 september Tallinnas, Balti jaama ootepaviljonis. Tegeleme festivali planeerimisega, lisainfo ilmub lähikuudel.
 month:
   january: January
   february: February
@@ -36,9 +40,9 @@ month:
   december: December
 
 venues:
-  catherine: 'Katariina Kirik'
-  vene: 'Rahvaülikooli Teatrikeskus'
-  hopner: 'Hopneri maja'
+  catherine: ''
+  vene: ''
+  hopner: ''
 
 titles:
   days_count: 3 päeva
@@ -60,7 +64,7 @@ content:
   no_info_yet: See info pole veel saadaval
 
 stats:
-  total_years: 5 aastat
+  total_years: 6 aastat
   total_performances: 61 etendust
   total_workshops: 36 töötuba
 

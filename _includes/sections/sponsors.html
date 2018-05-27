@@ -6,15 +6,19 @@
 
 <div class="row">
 
-    {% for sponsor in site.data.sponsors %}
-    <div class="col-xs-6 col-lg-2 vertical-center">
-        <a href="{{ sponsor.url }}" target="_blank">
-            <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                 data-src="{{ sponsor.logo | asset_path }}"
-                 alt="{{ sponsor.name }}"
-                 title="{{ sponsor.name }}"
-                 class="b-lazy img-rounded img-padded img-grayscale img-responsive" />
-        </a>
-    </div>
-    {% endfor %}
+    {% if site.workshops.size > 0 %}
+        {% for sponsor in site.data.sponsors %}
+        <div class="col-xs-6 col-lg-2 vertical-center">
+            <a href="{{ sponsor.url }}" target="_blank">
+                <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                     data-src="{% asset "{{ sponsor.logo}}" @path %}"
+                     alt="{{ sponsor.name }}"
+                     title="{{ sponsor.name }}"
+                     class="b-lazy img-rounded img-padded img-grayscale img-responsive" />
+            </a>
+        </div>
+        {% endfor %}
+    {% else %}
+        <p>{% t content.no_info_yet %}</p>
+    {% endif %}
 </div>

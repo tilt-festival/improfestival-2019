@@ -1,17 +1,17 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~>3.4'
-gem 'html-proofer', '~> 3.0'
+gem 'jekyll', '~>3.8'
+gem 'html-proofer', '~> 3.9'
 gem 'sass'
 gem 'uglifier'
 gem 'scss-lint'
-gem 'kramdown', '~>1.9'
+gem 'kramdown', '~>1.16'
 gem 'yaml-lint'
 
 gem 'autoprefixer-rails'
 
 group :jekyll_plugins do
-  gem 'jekyll-assets', '~> 2.3.2'
+  gem 'jekyll-assets', '~> 3.0'
   gem 'jekyll-multiple-languages-plugin', '~>1.5'
-  gem 'jekyll-coffeescript', '~>1.0'
+  gem 'jekyll-coffeescript', '~>1.1'
 end

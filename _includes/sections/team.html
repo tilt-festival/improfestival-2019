@@ -9,7 +9,7 @@
         <a data-toggle="modal" data-target="#modal-details"
            href="{{ site.baseurl | append:staff.url }}">
             <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                 data-src="{{ staff.image | asset_path }}"
+                 data-src="{% asset "{{ staff.image }}" @path %}"
                  alt="{{ staff.name }}"
                  class="b-lazy img-circle img-responsive img-grayscale" />
         </a>

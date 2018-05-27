@@ -5,7 +5,7 @@
 {% for workshop in site.workshops %}
 "{{ workshop.slug }}": {
 "name": "{{ workshop.name }}",
-"image": "{{ site.url }}{% asset_path "{{ workshop.image }}" %}",
+"image": "{{ site.url }}{% asset "{{ workshop.image }}" @path %}",
 "id": "{{ workshop.id }}",
 "slug": "{{ workshop.slug }}",
 "start": "{{ workshop.start }}",
