@@ -24,7 +24,10 @@ menu:
 tilt:
   six:
     heading: Tilt 6 is coming, Tilt 6 is coming!
-    intro: The 6th Tilt festival will take place in Tallinn, on September 20 - 22. We're currently working on organizing it, more information to appear in the following months.
+    intro: >
+      The 6th Tilt festival will take place in Tallinn, on September 20 - 22. We're currently
+      working on organizing it, more information to appear in the following months.
+      Until then, check out the fun we had last year!
 stats:
   total_years: 6 years
   total_performances: 61 performances

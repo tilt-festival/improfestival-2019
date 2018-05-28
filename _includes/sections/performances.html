@@ -19,7 +19,7 @@
             <a href="{{ site.baseurl | append:performer.url }}" data-toggle="modal" data-target="#modal-details">
                 <div class="image-container">
                     <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="{{ performer.image | asset_path }}"
+                         data-src="{% asset "{{ performer.image}}" @path %}"
                          alt="{% t performer.name %}"
                          class="b-lazy img-responsive center-block" />
 

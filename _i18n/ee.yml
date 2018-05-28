@@ -24,7 +24,10 @@ menu:
 tilt:
   six:
     heading: Tilt 6 on tulekul!
-    intro: Kuues Tilt festival toimub 20 - 22 september Tallinnas, Balti jaama ootepaviljonis. Tegeleme festivali planeerimisega, lisainfo ilmub lähikuudel.
+    intro: >
+      Kuues Tilt festival toimub 20 - 22 september Tallinnas, Balti jaama ootepaviljonis.
+      Tegeleme festivali planeerimisega, lisainfo ilmub lähikuudel.
+      Seniks saab uudistada eelmise festivali kodulehte.
 month:
   january: January
   february: February
