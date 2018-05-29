@@ -7,7 +7,7 @@
             <table class="table table-tickets table-hover table-condensed">
                 {% for event in day_events.items %}
                 {% if event.show_in_schedule %}
-                    <tr data-image="{{ event.image | asset_path }}">
+                    <tr data-image="{% asset "{{ event.image }}" @path %}">
                         <td>
                             <strong>{{ event.start | date: '%H:%M' }} - {{ event.end | date: '%H:%M' }}</strong>
                         </td>
