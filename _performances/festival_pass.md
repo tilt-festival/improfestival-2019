@@ -13,6 +13,6 @@ date: 2017-09-23
 show_in_schedule: false
 ---
 
-{% asset performers/wide/festival_pass_large.jpg @pic %}
+{% asset performers/wide/festival_pass_large.jpg @pic alt="Festival pass" %}
 
 {% tf performances/festival_pass.md %}

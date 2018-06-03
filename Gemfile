@@ -4,7 +4,6 @@ gem 'jekyll', '~>3.8'
 gem 'html-proofer', '~> 3.9'
 gem 'sass'
 gem 'uglifier'
-gem 'scss-lint'
 gem 'kramdown', '~>1.16'
 gem 'yaml-lint'
 

@@ -11,11 +11,9 @@ layout: empty
     <div class="row">
 
         <div class="col-xs-12 col-lg-4">
-            {% asset '{{ page.image }}' @pic
-    srcset:max-width="1200 2x"
-    srcset:max-width="768 1.5x"
-    srcset:max-width="600 1x"
-    alt:'{{ page.name }}' title:'{{ page.name }}' class:'img-responsive img-grayscale' %}
+            {% asset "{{ page.image }}" @pic  
+    
+    title='{{ page.name }}' alt="{{ page.name }}" class='img-responsive img-grayscale' %}
         </div>
 
         <div class="col-xs-12 col-lg-8">

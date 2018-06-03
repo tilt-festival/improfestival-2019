@@ -1,0 +1,10 @@
+
+files:
+  include: '**/*.s+(a|c)ss'
+options:
+  formatter: stylish
+  merge-default-rules: false
+rules:
+  nesting-depth:
+    - 1
+    - max-depth: 5

@@ -29,11 +29,7 @@ layout: empty
 
         <div class="col-xs-12 col-lg-4">
 
-{% asset '{{ page.image }}' @pic
-    srcset:max-width="1200 2x"
-    srcset:max-width="768 1.5x"
-    srcset:max-width="600 1x"
-      %}
+        {% asset "{{ page.image }}" @pic alt="{{ page.name }}" %}
 
         </div>
 
