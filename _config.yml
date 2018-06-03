@@ -3,7 +3,6 @@ baseurl: ""
 url: "https://improfestival.ee"
 languages: ["ee", "en"]
 timezone: "Europe/Tallinn"
-exclude_from_localizations: ["assets"]
 exclude:
   - Gemfile
   - .bundle
@@ -17,6 +16,8 @@ exclude:
   - README.md
   - .travis.yml
   - vendor
+  - package-lock.json
+  - bower.json
   - node_modules
   - bower.json"
 environment: production
@@ -24,7 +25,7 @@ environment: production
 markdown: kramdown
 sass:
   sass_dir: _assets/css
-gems: 
+plugins: 
  - jekyll-assets
  - jekyll-multiple-languages-plugin
  - jekyll-coffeescript
@@ -58,7 +59,7 @@ collections:
 
 assets:
   autoprefixer:
-    browsers: ["last 4 versions","> 5%","IE 9"]
+    browsers: ["last 4 versions","> 5%"]
   cache_type: memory
   digest: true
   sources:  
@@ -67,6 +68,8 @@ assets:
     - "_assets/bower/bootstrap-sass/assets/javascripts"
     - "_assets/bower/jquery/dist"
     - "_assets/bower"
+    - "_assets/img"
+    - "_assets/fonts"
   features:
    automatic_img_size: false
 
@@ -79,6 +82,7 @@ extlinks:
     - 2014.improfestival.ee
     - 2015.improfestival.ee
     - 2016.improfestival.ee
+    - 2017.improfestival.ee
 
 social:
   twitter: TILT_Improfest
