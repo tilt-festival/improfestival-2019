@@ -1,8 +1,8 @@
-Kuuendal rahvusvahelisel improteatrite festivalil Tilt on au võõrustada külalisi lähemalt ja kaugemalt.
+_Kuuendal rahvusvahelisel improteatrite festivalil Tilt on au võõrustada külalisi lähemalt ja kaugemalt.
 Et tegemist on meisterimprotajatega, on nad rõõmuga nõus vastu võtma ka väljakutseid, mis on suuremad
 kui lihtsalt eimillestki etenduse loomine! Mixer show etenduse päeval on erinevatest truppidest ja erineva
 kogemustepagasiga improtajaid kohtunud töötoas ning alles seal juhendaja abiga ette valmistanud õhtul lavale jõudva
-formaadi. Nii et enam värskemaks minna ei saa! Kuidas see kõik neil õnnestub, näeb juba kohapeal!
+formaadi. Nii et enam värskemaks minna ei saa! Kuidas see kõik neil õnnestub, näeb juba kohapeal!_
 
 ### “Kuradi kolmnurk”. Juhendaja: Katarzyna Chmara (POL)
 
