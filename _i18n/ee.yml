@@ -94,39 +94,39 @@ workshops:
 
 performances:
   titles:
-    ruutu10_mic: Ruutu10 (EST) - "T&R" & Moscow Improv Club (RUS) - "1, 2, 3 Läksime!"
-    ruutu10_jaa: Ruutu10 (EST) - "JD" & Jaa !mproteater (EST) - "Mis võiks küll valesti minna?"
-    hallbang_imkubik: Hall and the Bang (SWE/AUS) - "#Täiusliksobivus2K30" & imKubik (CHE) - "Ilma sõnadeta"
-    impeerium_each_other: Improteater IMPEERIUM (EST) - "Räägi meile!" & Each Other (LAT/FRA) - "Ütle midagi"
-    kokkoflava_nick: Kokkoflava (FIN/FRA) - "TEMPO" & Nick Byrne (AUS) - "Inspireeritud"
-    rocky_moment: The Moment (FIN/USA) - "Siin, praegu" & Rocky Amaretto (NLD) - "Kõigil on üks"
-    mixer_a: '"Las mängib muusika"'
-    mixer_bc: '"Courtesy Sleeve" & "Paralleelne"'
-    mixer_de: '"Ükspuha millisel päeval" & "Asukoht"'
+    divas_poulpe: D I V A S (LVA) - “Viis minutit hiljem” & Poulpe (FRA) - “Muld või kuld”
+    freiwild_peter_emma: frei.wild Improvisationstheater Berlin (DEU) - “Õnnelikud kaotajad” & Peter More ja Emma Wessleus (GBR) - “Mørdsäga”
+    istanbulimpro_easylaughs: Istanbulimpro (TUR) - “Pulkade ja rätikute taga peituvad lood” & easylaughs (NLD) - “Tarantino”
+    jaa_impeerium: Jaa !mproteater (EST) - “Kaldale uhutud” & Improteater IMPEERIUM (EST) - “Romantiline komöödia”
+    kiki_kevin_acaprov: Kiki and Kevin (NLD/USA) - "Kiivrivargad" & Acaprov (GBR) - “AcaTilt”
+    mixer_ab: '"Erinevusastmed" & "Järgne lahkujale"'
+    mixer_cd: '"Elas kord..." & "Hääletult"'
+    mixer_ef: '"Kuradi kolmnurk" & "Mõrvamüsteerium"'
+    tahel_ruutu: Rahel ja Timo (EST) - “Kaks tooli” & Ruutu10 (EST) - “Vestlus”
     festival_pass: FESTIVALI PASS
     supporter_pass: TOETAJA PASS
   names:
-    ruutu10_mic: Ruutu10 (EST) & Moscow Improv Club (RUS)
-    ruutu10_jaa: Ruutu10 (EST) & Jaa !mproteater (EST)
-    hallbang_imkubik: Hall and the Bang (SWE/AUS) & imKubik (CHE)
-    impeerium_each_other: Improteater IMPEERIUM (EST) & Each Other (LAT/FRA)
-    kokkoflava_nick: Kokkoflava (FIN/FRA) & Nick Byrne (AUS)
-    rocky_moment: The Moment (FIN/USA) & Rocky Amaretto (NLD)
-    mixer_a: '"Las mängib muusika"'
-    mixer_bc: '"Courtesy Sleeve" & "Paralleelne"'
-    mixer_de: '"Ükspuha millisel päeval" & "Asukoht"'
+    divas_poulpe: D I V A S (LVA) & Poulpe (FRA)
+    freiwild_peter_emma: frei.wild Improvisationstheater Berlin (DEU) & Peter More and Emma Wessleus (GBR)
+    istanbulimpro_easylaughs: Istanbulimpro (TUR) & easylaughs (NLD)
+    jaa_impeerium: Jaa !mproteater (EST) & Improteater IMPEERIUM (EST)
+    kiki_kevin_acaprov: Kiki and Kevin (NLD/USA) & Acaprov (GBR)
+    mixer_ab: '"Erinevusastmed" & "Järgne lahkujale"'
+    mixer_cd: '"Elas kord..." & "Hääletult"'
+    mixer_ef: '"Kuradi kolmnurk" & "Mõrvamüsteerium"'
+    tahel_ruutu: Rahel ja Timo (EST) & Ruutu10 (EST)
     festival_pass: FESTIVALI PASS
     supporter_pass: TOETAJA PASS
   ticket_links:
-    ruutu10_mic: https://
-    ruutu10_jaa: https://
-    hallbang_imkubik: https://
-    impeerium_each_other: https://
-    kokkoflava_nick: https://
-    rocky_moment: https://
-    mixer_a: https://
-    mixer_bc: https://
-    mixer_de: https://
+    divas_poulpe: https://
+    freiwild_peter_emma: https://
+    istanbulimpro_easylaughs: https://
+    jaa_impeerium: https://
+    kiki_kevin_acaprov: https://
+    mixer_ab: https://
+    mixer_cd: https://
+    mixer_ef: https://
+    tahel_ruutu: https://
     all_performances: https://
     day_tickets: https://
     festival_pass: https://
