@@ -1,12 +1,12 @@
 # Improfestival "Tilt" 2017 homepage
 
-[![Travis branch](https://img.shields.io/travis/tiltfestival/improfestival-2018/develop.svg?maxAge=2592000)](https://travis-ci.org/improv-jaa/improfestival-2018)
+[![Travis branch](https://img.shields.io/travis/tilt-festival/improfestival-2018/develop.svg?maxAge=2592000)](https://travis-ci.org/tilt-festival/improfestival-2018)
 [![
- branch](https://img.shields.io/scrutinizer/g/improv-jaa/improfestival-2018/develop.svg?maxAge=2592000)](https://scrutinizer-ci.com/g/improv-jaa/improfestival-2018/)
+ branch](https://img.shields.io/scrutinizer/g/improv-jaa/improfestival-2018/develop.svg?maxAge=2592000)](https://scrutinizer-ci.com/g/tilt-festival/improfestival-2018/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/tiltfestival/improfestival-2018.svg?maxAge=2592000)](https://hub.docker.com/r/tiltfestival/improfestival-2018/)
-[![GitHub release](https://img.shields.io/github/release/improv-jaa/improfestival-2018.svg?maxAge=2592000)](https://github.com/improv-jaa/improfestival-2018/releases)
+[![GitHub release](https://img.shields.io/github/release/tilt-festival/improfestival-2018.svg?maxAge=2592000)](https://github.com/tilt-festival/improfestival-2018/releases)
 
-This is the homepage for the 4th [international improv festival Tilt](https://improfestival.ee) (2017).
+This is the homepage for the 6th [international improv festival Tilt](https://2018.improfestival.ee) (2018).
 
 ## Managing Content
 
