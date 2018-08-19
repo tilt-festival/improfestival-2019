@@ -1,13 +1,13 @@
 ---
 global:
-  title: The 5th International Improv Festival Tilt
+  title: The 6th International Improv Festival Tilt
   description: >
-    The Fifth International Improv Festival Tilt brings
+    The Sixth International Improv Festival Tilt brings
     you the overview of Estonian improv theatres and also best
     improv actors and teachers from all over the world! Welcome
     to the party of spontaneous theatre!
-  dates: September 20 - 22 2017 in Tallinn
-  title_short: The 5th International Improv Festival
+  dates: September 20 - 22 2018 in Tallinn
+  title_short: The 6th International Improv Festival
   english: Eng
   estonian: Est
 menu:
@@ -111,13 +111,13 @@ performances:
   in_est: in Estonian
   in_mixed: Mixed languages
 venues:
-  catherine: "St Catherine's Church"
+  cinema: ""
   vene: 'Vene 6 (Rahvaülikooli Teatrikeskus)'
 
 titles:
   days_count: 3 days
-  performances_count: 13 performers
-  workshops_count: 9 workshops
+  performances_count: 18 performers
+  workshops_count: 8 workshops
 content:
   get_ticket: Get a festival ticket
   get_tickets: Get tickets to Tilt performances

@@ -6,7 +6,6 @@ timezone: "Europe/Tallinn"
 exclude:
   - Gemfile
   - .bundle
-  - cart
   - .sass-cache
   - nginx.conf
   - docker-compose.yml
