@@ -1,4 +1,4 @@
-# Improfestival "Tilt" 2017 homepage
+# Improfestival "Tilt" 2018 homepage
 
 [![Travis branch](https://img.shields.io/travis/tilt-festival/improfestival-2018/develop.svg?maxAge=2592000)](https://travis-ci.org/tilt-festival/improfestival-2018)
 [![
