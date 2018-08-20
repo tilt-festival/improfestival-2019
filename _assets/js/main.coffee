@@ -4,6 +4,7 @@
 #= require matchHeight/dist/jquery.matchHeight-min
 #= require picturefill/dist/picturefill
 #= require blazy/blazy.min
+#= require fienta
 
 # Create a JS Google Map object and add important location markers to it
 window.initMap = ->
