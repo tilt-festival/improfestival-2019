@@ -15,7 +15,7 @@ Improvisational theater comes in many forms and a lot of troupes specialize on a
 a lot during their scenes, others focus on silence in scenes, some groups love making small talk and others focus
 purely on the relationships between the characters.
 
-What would happen if you would change the style you are playing in in the middle of the scene?
+What would happen if you would change the style you are playing in the middle of the scene?
 
 That is what you are going to discover in this workshop. The goal is to shift styles and speeds during the scene.
 You will create dynamic scenes that can make small talk all of a sudden very important for the characters and switch

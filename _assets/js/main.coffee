@@ -13,31 +13,31 @@ window.initMap = ->
       lng: 24.748720
     zoom: 16
 
-  catherine = new google.maps.Marker
+  cinema = new google.maps.Marker
     position:
-      lat: 59.437746
-      lng: 24.748497
+      lat: 59.437642
+      lng: 24.749892
     map: map
-    title: 'St. Catherine\'s Church'
+    title: 'Kinomaja'
     label: '1'
 
-  catherineInfo = new google.maps.InfoWindow
+  cinemaInfo = new google.maps.InfoWindow
     content: """
-      <h3>St. Catherine's Church</h3>
-      <p class="lead">Vene 14a, Tallinn</p>
+      <h3>The Cinema (Kinomaja)</h3>
+      <p class="lead">Uus 3, Tallinn</p>
       <p>Performance venue</p>
 """
-  catherine.addListener 'click', -> catherineInfo.open map, catherine
+  cinema.addListener 'click', -> cinemaInfo.open map, cinema
 
-  # St. Catherine's
+  # Cinema
   new google.maps.Circle
     strokeColor: '#a43a5a'
     fillOpacity: 0
     strokeWeight: 4
     map: map
     center:
-      lat: 59.437746
-      lng: 24.748497
+      lat: 59.437642
+      lng: 24.749892
     radius: 20
 
   # OldHouse
