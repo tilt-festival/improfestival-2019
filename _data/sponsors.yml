@@ -1,27 +1,15 @@
-- name: City Motors
-  logo: sponsors/citymotors.png
-  url: http://www.citymotors.ee/
-
-- name: Eesti Kultuurikapital
-  logo: sponsors/kulka.png
-  url: http://www.kulka.ee/
-
 - name: Tallinna Rahvaülikool
   logo: sponsors/toomklubi.png
   url: http://kultuur.ee
 
-- name: Õlleteek
-  logo: sponsors/olleteek.png
-  url: https://www.facebook.com/Olleteek
+- name: Tallinna Kesklinna Valitsus
+  logo: sponsors/tallinn.png
+  url: https://www.tallinn.ee/
 
-- name: Filmiklubi
-  logo: sponsors/filmiklubi.png
-  url: http://www.tipikas.tv
+- name: Hasartmängumaksu Nõukogu
+  logo: sponsors/hn.jpg
+  url: http://www.hmn.ee/
 
-- name: Mistra
-  logo: sponsors/mistra.png
-  url: http://www.mistra.ee
-
-- name: Trilevik
-  logo: sponsors/trilevik.png
-  url: http://shop.trilevik.com
+- name: Stella Soomlais
+  logo: sponsors/stella.png
+  url: https://www.stellasoomlais.com/

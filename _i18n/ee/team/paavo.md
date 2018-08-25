@@ -8,5 +8,5 @@ Sander mõtleb läbi tehnilise lahenduse ning ühiselt kogu asi teostatakse.
 Mari-Riinu tehtud tööde hulgas on kujundusi nii Endla, Draama kui ka Ugala teatri repertuaari lavastusi,
 näiteks "Krdi loll lind" (Lav.Taago Tubin, Ugala teater) ja "Alice Imedemaal" (Lav.Laura Jaanhold, Endla teater). 
 Sander on loonud kujunduse lavastusele "Avameelselt abielust" (Lav. Erki Aule, MTÜ Oma Lava) ja mitmetele
-tantsulavastustele ning kontserditele. Ühiselt lüüakse kaasq juba teist aastat Rapla kultuurifestivali SÄRIN ning
+tantsulavastustele ning kontserditele. Ühiselt lüüakse kaasa juba teist aastat Rapla kultuurifestivali SÄRIN ning
 improteatrite festivali TILT. Lisaks kõigele eelmainitule on mõlemad valgustajad ka valgusmeistritena tööl Ugala teatris.
