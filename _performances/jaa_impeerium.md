@@ -5,7 +5,7 @@ name: performances.names.jaa_impeerium
 title: performances.titles.jaa_impeerium
 country: est
 language: est
-image: performers/square/kitten.jpg
+image: performers/square/jaa_impeerium.jpg
 venue: cinema
 sold_out: false
 ticket_url: performances.ticket_links.jaa_impeerium
@@ -13,9 +13,9 @@ date: 2017-09-21
 ---
 
 <picture>
-    <source media="(min-width: 1200px)" srcset="{% asset performers/wide/kitten.jpg @path %}">
-    <source media="(min-width: 768px)" srcset="{% asset performers/wide/kitten.jpg @path %}">
-    <img src="{% asset performers/square/kitten.jpg @path %}" alt="Jaa !improteater ja Improteater Impeerium">
+    <source media="(min-width: 1200px)" srcset="{% asset performers/wide/jaa_impeerium.jpg @path %}">
+    <source media="(min-width: 768px)" srcset="{% asset performers/wide/jaa_impeerium.jpg @path %}">
+    <img src="{% asset performers/square/jaa_impeerium.jpg @path %}" alt="Jaa !improteater ja Improteater Impeerium">
 </picture>
 
 {% tf performances/jaa_impeerium.md %}

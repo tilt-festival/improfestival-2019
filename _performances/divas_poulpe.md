@@ -5,7 +5,7 @@ name: performances.names.divas_poulpe
 title: performances.titles.divas_poulpe
 country: lva/fra
 language: eng
-image: performers/square/kitten.jpg
+image: performers/square/divas_poulpe.jpg
 venue: cinema
 sold_out: false
 ticket_url: performances.ticket_links.divas_poulpe
@@ -13,9 +13,9 @@ date: 2017-09-20
 ---
 
 <picture>
-    <source media="(min-width: 1200px)" srcset="{% asset performers/wide/kitten.jpg @path %}">
-    <source media="(min-width: 768px)" srcset="{% asset performers/wide/kitten.jpg @path %}">
-    <img src="{% asset performers/square/kitten.jpg @path %}" alt="Divas/Poulpe">
+    <source media="(min-width: 1200px)" srcset="{% asset performers/wide/divas_poulpe.jpg @path %}">
+    <source media="(min-width: 768px)" srcset="{% asset performers/wide/divas_poulpe.jpg @path %}">
+    <img src="{% asset performers/square/divas_poulpe.jpg @path %}" alt="Divas/Poulpe">
 </picture>
 
 {% tf performances/divas_poulpe.md %}
