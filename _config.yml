@@ -1,7 +1,7 @@
 email: tilt@improfestival.ee
 baseurl: ""
 url: "https://improfestival.ee"
-languages: ["ee", "en"]
+languages: ["et", "en"]
 timezone: "Europe/Tallinn"
 exclude:
   - Gemfile

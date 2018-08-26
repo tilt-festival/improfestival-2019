@@ -18,10 +18,11 @@
             </h4>
             <a href="{{ site.baseurl | append:performer.url }}" data-toggle="modal" data-target="#modal-details">
                 <div class="image-container">
+                    {% capture alt %}{% t performer.name %}{% endcapture %}
                     <img src="{% asset "{{ performer.image }}" @path %}"
-                         srcset="{% asset "{{ performer.image | replace: 'square', 'wide' }}" @path %}, {% asset "{{ performer.image }}" @path %}"
-                         sizes="(max-width: 768px) xs, 768px"
-                         alt="{% t performer.name %}"
+                         srcset="{% asset "{{ performer.image | replace: 'square', 'wide' }}" @path %} 450w, {% asset "{{ performer.image }}" @path %} 768w"
+                         sizes="(max-width: 768px) 450px, 768px"
+                         alt="{{ alt | escape }}"
                          class="img-responsive center-block" />
 
                     {% if performer.sold_out %}
