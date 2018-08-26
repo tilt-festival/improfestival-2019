@@ -10,9 +10,9 @@
 window.initMap = ->
   map = new google.maps.Map $('.map')[0],
     center:
-      lat: 59.439497
-      lng: 24.748720
-    zoom: 16
+      lat: 59.437622
+      lng: 24.749914
+    zoom: 15
 
   cinema = new google.maps.Marker
     position:
@@ -41,35 +41,35 @@ window.initMap = ->
       lng: 24.749892
     radius: 20
 
-  # OldHouse
+  # Hostel
   new google.maps.Circle
     strokeColor: '#a43a5a'
     fillOpacity: 0
     strokeWeight: 4
     map: map
     center:
-      lat: 59.440786
-      lng: 24.749836
+      lat: 59.439252
+      lng: 24.756870
     radius: 20
 
-  oldhouse = new google.maps.Marker
+  hostel = new google.maps.Marker
     position:
-      lat: 59.440786, 
-      lng: 24.749836
+      lat: 59.439252,
+      lng: 24.756870
     map: map
-    title: 'OldHouse Hostel'
+    title: 'Welcome Hostel'
     label: '2'
 
-  oldhouseInfo = new google.maps.InfoWindow
+  hostelInfo = new google.maps.InfoWindow
     content: """
-      <h3>OldHouse Hostel</h3>
-      <p class="lead">Uus 26</p>
-      <p><a href="http://www.oldhouse.ee/">oldhouse.ee</a></p>
+      <h3>Welcome Hostel</h3>
+      <p class="lead">Rotermanni 12</p>
+      <p><a href="https://welcomehostel.ee/en/">welcomehostel.ee</a></p>
 """
-  oldhouse.addListener 'click', -> oldhouseInfo.open map, oldhouse
+  hostel.addListener 'click', -> hostelInfo.open map, hostel
 
 
-  # Rahvaülikool
+  # Vene
   new google.maps.Circle
     strokeColor: '#a43a5a'
     fillOpacity: 0
@@ -97,32 +97,59 @@ window.initMap = ->
 """
   vene.addListener 'click', -> veneInfo.open map, vene
 
-  # Hopner
+
+  # Rahvaülikool
   new google.maps.Circle
     strokeColor: '#a43a5a'
     fillOpacity: 0
     strokeWeight: 4
     map: map
     center:
-      lat: 59.436971
-      lng: 24.746016
+      lat: 59.434815
+      lng: 24.753262
     radius: 20
 
-  hopner = new google.maps.Marker
+  uni = new google.maps.Marker
     position:
-      lat: 59.436971
-      lng: 24.746016
+      lat: 59.434815
+      lng: 24.753262
     map: map
-    title: 'Hopner\'s house'
+    title: 'Tallinna Rahvaülikool'
+    label: '3'
+
+  uniInfo = new google.maps.InfoWindow
+    content: """
+      <h3>Tallinna Rahvaülikool</h3>
+      <p class="lead">Estonia pst 5a, Tallinn, Estonia</p>
+      <p>Workshops venue.</p>
+"""
+  uni.addListener 'click', -> uniInfo.open map, uni
+
+  # Bar
+  new google.maps.Circle
+    strokeColor: '#a43a5a'
+    fillOpacity: 0
+    strokeWeight: 4
+    map: map
+    center:
+      lat: 59.440317
+      lng: 24.749507
+    radius: 20
+
+  bar = new google.maps.Marker
+    position:
+      lat: 59.440317
+      lng: 24.749507
+    map: map
+    title: 'Nāga Naga bar'
     label: '4'
 
-  hopnerInfo = new google.maps.InfoWindow
+  barInfo = new google.maps.InfoWindow
     content: """
-      <h3>Hopner's house</h3>
-      <p class="lead">Vene 6, Tallinn</p>
-      <p>Workshops venue</p>
+      <h3>Nāga Naga bar</h3>
+      <p class="lead">Uus 25, Tallinn</p>
 """
-  hopner.addListener 'click', -> hopnerInfo.open map, hopner
+  bar.addListener 'click', -> barInfo.open map, bar
 
 
 # Open a modal window with the set modal's content loaded

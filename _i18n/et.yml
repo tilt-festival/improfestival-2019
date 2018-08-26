@@ -45,8 +45,10 @@ month:
 
 venues:
   cinema: 'Kinomaja'
-  vene: ''
-  hopner: ''
+  uni: Tallinna Rahvaülikool
+  bar: Nāga Naga bar
+  hostel: Welcome Hostel
+  vene: 'Vene 6 (Rahvaülikooli Teatrikeskus)'
 
 titles:
   days_count: 3 päeva
@@ -74,7 +76,7 @@ stats:
 
 map:
   hostel: Hostel
-  hostel_address: OldHouse Hostel, Uus 26
+  hostel_address: Welcome Hostel, Rotermanni 12
   performance_venue: Etendused
   performance_venue_address: Kinomaja, Uus 3
   workshop_venue: Töötoad
