@@ -8,7 +8,7 @@ country: usa
 image: workshops/kevin_miller.jpg
 sold_out: false
 venue: vene
-ticket_url: https://
+ticket_url: https://fienta.com/kevin-miller-usa-max-q-finding-the-next-beat
 ---
 
 In rocketry, “Max Q” is the point where a rocket experiences the greatest amount of

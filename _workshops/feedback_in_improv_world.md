@@ -8,7 +8,7 @@ country: cze
 image: workshops/michaela_puchalkova.jpg
 sold_out: false
 venue: vene
-ticket_url: https://
+ticket_url: https://fienta.com/michaela-puchalkova-cze-feedback-in-improv-world
 ---
 
 What can we learn from the coaches and personal development trainers? How the principles of NVC -
