@@ -45,7 +45,7 @@ month:
 
 venues:
   cinema: 'Kinomaja'
-  uni: Tallinna Rahvaülikool
+  uni: Estonia pst 5a (Tallinna Rahvaülikool)
   bar: Nāga Naga bar
   hostel: Welcome Hostel
   vene: 'Vene 6 (Rahvaülikooli Teatrikeskus)'
@@ -75,6 +75,8 @@ stats:
   total_workshops: 36 töötuba
 
 map:
+  food: Söök / jook
+  food_address: Nāga Naga baar (Uus 25)
   hostel: Hostel
   hostel_address: Welcome Hostel, Rotermanni 12
   performance_venue: Etendused
@@ -82,7 +84,7 @@ map:
   workshop_venue: Töötoad
   workshop_venue_address: >
     Tallinna Rahvaülikooli Teatrikeskus (Vene 6)
-    ja Hopneri maja (Raekoja plats 18)
+    ja Tallinna Rahvaülikool (Estonia pst 5a)
 
 workshops:
   titles:
