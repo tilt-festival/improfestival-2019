@@ -1,7 +1,7 @@
 ---
-start: 2017-09-20 14:00
-end: 2017-09-20 17:00
-date: 2017-09-20
+start: 2018-09-20 14:00
+end: 2018-09-20 17:00
+date: 2018-09-20
 title: workshops.titles.feel_me
 name: Katarzyna Chmara
 country: pol

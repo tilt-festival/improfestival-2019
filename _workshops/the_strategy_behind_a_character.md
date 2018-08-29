@@ -1,7 +1,7 @@
 ---
-start: 2017-09-22 10:00
-end: 2017-09-22 13:00
-date: 2017-09-22
+start: 2018-09-22 10:00
+end: 2018-09-22 13:00
+date: 2018-09-22
 title: workshops.titles.the_strategy_behind_a_character
 name: Kaspars Breidaks
 country: lva

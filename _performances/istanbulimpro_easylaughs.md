@@ -1,6 +1,6 @@
 ---
-start: 2017-09-22 21:15
-end: 2017-09-22 22:45
+start: 2018-09-22 21:15
+end: 2018-09-22 22:45
 name: performances.names.istanbulimpro_easylaughs
 title: performances.titles.istanbulimpro_easylaughs
 country: tur/nld
@@ -9,7 +9,7 @@ image: performers/square/istanbulimpro_easylaughs.jpg
 venue: cinema
 sold_out: false
 ticket_url: performances.ticket_links.istanbulimpro_easylaughs
-date: 2017-09-22
+date: 2018-09-22
 ---
 
 <picture>

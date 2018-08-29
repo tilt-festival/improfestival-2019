@@ -1,7 +1,7 @@
 ---
-start: 2017-09-22 14:00
-end: 2017-09-22 17:00
-date: 2017-09-22
+start: 2018-09-22 14:00
+end: 2018-09-22 17:00
+date: 2018-09-22
 title: workshops.titles.max_q_finding_the_next_beat
 name: Kevin Miller
 country: usa

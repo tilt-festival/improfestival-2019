@@ -1,6 +1,6 @@
 ---
-start: 2017-09-22 18:15
-end: 2017-09-22 19:15
+start: 2018-09-22 18:15
+end: 2018-09-22 19:15
 name: performances.names.mixer_ef
 title: performances.titles.mixer_ef
 country: 
@@ -9,7 +9,7 @@ image: performers/square/mixer_ef.jpg
 venue: cinema
 sold_out: false
 ticket_url: performances.ticket_links.mixer_ef
-date: 2017-09-22
+date: 2018-09-22
 ---
 
 <picture>

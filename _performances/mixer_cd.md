@@ -1,6 +1,6 @@
 ---
-start: 2017-09-21 18:15
-end: 2017-09-21 19:15
+start: 2018-09-21 18:15
+end: 2018-09-21 19:15
 name: performances.names.mixer_cd
 title: performances.titles.mixer_cd
 country: 
@@ -9,7 +9,7 @@ image: performers/square/mixer_cd.jpg
 venue: cinema
 sold_out: false
 ticket_url: performances.ticket_links.mixer_cd
-date: 2017-09-21
+date: 2018-09-21
 ---
 
 <picture>

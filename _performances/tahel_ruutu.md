@@ -1,6 +1,6 @@
 ---
-start: 2017-09-20 19:30
-end: 2017-09-20 21:00
+start: 2018-09-20 19:30
+end: 2018-09-20 21:00
 name: performances.names.tahel_ruutu
 title: performances.titles.tahel_ruutu
 country: est
@@ -9,7 +9,7 @@ image: performers/square/tahel_ruutu.jpg
 venue: cinema
 sold_out: false
 ticket_url: performances.ticket_links.tahel_ruutu
-date: 2017-09-20
+date: 2018-09-20
 ---
 
 <picture>

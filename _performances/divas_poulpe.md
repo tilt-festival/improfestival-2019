@@ -1,6 +1,6 @@
 ---
-start: 2017-09-20 21:15
-end: 2017-09-20 22:45
+start: 2018-09-20 21:15
+end: 2018-09-20 22:45
 name: performances.names.divas_poulpe
 title: performances.titles.divas_poulpe
 country: lva/fra
@@ -9,7 +9,7 @@ image: performers/square/divas_poulpe.jpg
 venue: cinema
 sold_out: false
 ticket_url: performances.ticket_links.divas_poulpe
-date: 2017-09-20
+date: 2018-09-20
 ---
 
 <picture>

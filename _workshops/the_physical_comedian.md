@@ -1,7 +1,7 @@
 ---
-start: 2017-09-21 10:00
-end: 2017-09-21 13:00
-date: 2017-09-21
+start: 2018-09-21 10:00
+end: 2018-09-21 13:00
+date: 2018-09-21
 title: workshops.titles.the_physical_comedian
 name: Morgan Mansouri
 country: fra

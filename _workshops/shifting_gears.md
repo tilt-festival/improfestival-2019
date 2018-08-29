@@ -1,7 +1,7 @@
 ---
-start: 2017-09-21 14:00
-end: 2017-09-21 17:00
-date: 2017-09-21
+start: 2018-09-21 14:00
+end: 2018-09-21 17:00
+date: 2018-09-21
 title: workshops.titles.shifting_gears
 name: Jochem Meijer
 country: nld

@@ -1,7 +1,7 @@
 ---
-start: 2017-09-22 14:00
-end: 2017-09-22 17:00
-date: 2017-09-22
+start: 2018-09-22 14:00
+end: 2018-09-22 17:00
+date: 2018-09-22
 title: workshops.titles.feedback_in_improv_world
 name: Michaela Puchalková
 country: cze

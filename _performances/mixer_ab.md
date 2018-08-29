@@ -1,6 +1,6 @@
 ---
-start: 2017-09-20 18:10
-end: 2017-09-20 19:15
+start: 2018-09-20 18:10
+end: 2018-09-20 19:15
 name: performances.names.mixer_ab
 title: performances.titles.mixer_ab
 country: 
@@ -9,7 +9,7 @@ image: performers/square/mixer_ab.jpg
 venue: cinema
 sold_out: false
 ticket_url: performances.ticket_links.mixer_ab
-date: 2017-09-20
+date: 2018-09-20
 ---
 
 <picture>

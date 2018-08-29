@@ -1,7 +1,7 @@
 ---
-start: 2017-09-20 10:00
-end: 2017-09-20 13:00
-date: 2017-09-20
+start: 2018-09-20 10:00
+end: 2018-09-20 13:00
+date: 2018-09-20
 title: workshops.titles.always_with_pleasure
 name: Kayleigh Cassidy
 country: gbr
