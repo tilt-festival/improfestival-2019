@@ -6,7 +6,7 @@ title: performances.titles.supporter_pass
 country: mixed
 language: mixed
 image: performers/square/festival_pass.jpg
-venue: cinema
+venue: 
 sold_out: false
 ticket_url: performances.ticket_links.supporter_pass
 date: 2018-09-22
