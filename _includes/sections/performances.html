@@ -19,11 +19,12 @@
             <a href="{{ site.baseurl | append:performer.url }}" data-toggle="modal" data-target="#modal-details">
                 <div class="image-container">
                     {% capture alt %}{% t performer.name %}{% endcapture %}
-                    <img src="{% asset "{{ performer.image }}" @path %}"
-                         srcset="{% asset "{{ performer.image | replace: 'square', 'wide' }}" @path %} 450w, {% asset "{{ performer.image }}" @path %} 768w"
-                         sizes="(max-width: 768px) 450px, 768px"
-                         alt="{{ alt | escape }}"
-                         class="img-responsive center-block" />
+
+                    <picture class="img-responsive center-block">
+                        <source srcset="{% asset "{{ performer.image | replace: 'square', 'wide' }}" @path %}" media="(max-width: 768px)" />
+                        <source srcset="{% asset "{{ performer.image }}" @path %}" media="(min-width: 768px)" />
+                        <img src="{% asset "{{ performer.image }}" @path %}" alt="{{ alt | escape }}" />
+                    </picture>
 
                     {% if performer.sold_out %}
                     <h3>{% t content.sold_out %}</h3>
