@@ -7,6 +7,7 @@
             <table class="table table-tickets table-hover table-condensed">
                 {% for event in day_events.items %}
                 {% if event.show_in_schedule %}
+                    {% assign event_index = event_index | plus: 1 %}
                     <tr data-image="{% asset "{{ event.image }}" @path %}">
                         <td>
                             <strong>{{ event.start | date: '%H:%M' }} - {{ event.end | date: '%H:%M' }}</strong>
@@ -19,7 +20,8 @@
                             {% endif %}
                         </td>
                         <td>
-                            <a data-toggle="modal" data-target="#modal-details" href="{{ site.baseurl | append:event.url }}">
+                            <a data-toggle="modal" data-target="#modal-details" href="{{ site.baseurl | append:event.url }}"
+                                data-index="{{ event_index }}" >
                                 {% if event.collection == 'workshops' %}
                                     {{ event.name }} - {% t event.title %}
                                 {% else %}

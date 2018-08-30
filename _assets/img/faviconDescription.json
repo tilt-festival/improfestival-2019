@@ -12,7 +12,7 @@
         "precomposedIcons": true,
         "declareOnlyDefaultIcon": true
       },
-      "appName": "Tilt 4"
+      "appName": "Tilt 6"
     },
     "desktopBrowser": {},
     "windows": {
@@ -28,13 +28,13 @@
           "rectangle": false
         }
       },
-      "appName": "Tilt 4"
+      "appName": "Tilt 6"
     },
     "androidChrome": {
       "pictureAspect": "noChange",
       "themeColor": "#ffffff",
       "manifest": {
-        "name": "Tilt 4",
+        "name": "Tilt 6",
         "display": "standalone",
         "orientation": "notSet",
         "onConflict": "override",

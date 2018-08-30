@@ -7,6 +7,7 @@
 {% assign all_events = site.workshops | a_concat: site.performances | sort: 'start' | group_by: 'date' %}
 
 {% if all_events.size > 0 %}
+    {% assign event_index = 0 %}
     {% for day_events in all_events %}
         {% include sections/events.html %}
     {% endfor %}

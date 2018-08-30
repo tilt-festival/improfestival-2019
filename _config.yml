@@ -1,12 +1,11 @@
 email: tilt@improfestival.ee
 baseurl: ""
 url: "https://improfestival.ee"
-languages: ["ee", "en"]
+languages: ["et", "en"]
 timezone: "Europe/Tallinn"
 exclude:
   - Gemfile
   - .bundle
-  - cart
   - .sass-cache
   - nginx.conf
   - docker-compose.yml
@@ -62,6 +61,8 @@ assets:
     browsers: ["last 4 versions","> 5%"]
   cache_type: memory
   digest: true
+  plugins:
+    img: { optim: {}}
   sources:  
     - "_assets/bower/font-awesome/fonts"
     - "_assets/bower/open-sans-fontface/fonts"

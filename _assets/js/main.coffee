@@ -4,71 +4,72 @@
 #= require matchHeight/dist/jquery.matchHeight-min
 #= require picturefill/dist/picturefill
 #= require blazy/blazy.min
+#= require fienta
 
 # Create a JS Google Map object and add important location markers to it
 window.initMap = ->
   map = new google.maps.Map $('.map')[0],
     center:
-      lat: 59.439497
-      lng: 24.748720
-    zoom: 16
+      lat: 59.437622
+      lng: 24.749914
+    zoom: 15
 
-  catherine = new google.maps.Marker
+  cinema = new google.maps.Marker
     position:
-      lat: 59.437746
-      lng: 24.748497
+      lat: 59.437642
+      lng: 24.749892
     map: map
-    title: 'St. Catherine\'s Church'
+    title: 'Kinomaja'
     label: '1'
 
-  catherineInfo = new google.maps.InfoWindow
+  cinemaInfo = new google.maps.InfoWindow
     content: """
-      <h3>St. Catherine's Church</h3>
-      <p class="lead">Vene 14a, Tallinn</p>
+      <h3>The Cinema (Kinomaja)</h3>
+      <p class="lead">Uus 3, Tallinn</p>
       <p>Performance venue</p>
 """
-  catherine.addListener 'click', -> catherineInfo.open map, catherine
+  cinema.addListener 'click', -> cinemaInfo.open map, cinema
 
-  # St. Catherine's
+  # Cinema
   new google.maps.Circle
     strokeColor: '#a43a5a'
     fillOpacity: 0
     strokeWeight: 4
     map: map
     center:
-      lat: 59.437746
-      lng: 24.748497
+      lat: 59.437642
+      lng: 24.749892
     radius: 20
 
-  # OldHouse
+  # Hostel
   new google.maps.Circle
     strokeColor: '#a43a5a'
     fillOpacity: 0
     strokeWeight: 4
     map: map
     center:
-      lat: 59.440786
-      lng: 24.749836
+      lat: 59.439252
+      lng: 24.756870
     radius: 20
 
-  oldhouse = new google.maps.Marker
+  hostel = new google.maps.Marker
     position:
-      lat: 59.440786, 
-      lng: 24.749836
+      lat: 59.439252,
+      lng: 24.756870
     map: map
-    title: 'OldHouse Hostel'
+    title: 'Welcome Hostel'
     label: '2'
 
-  oldhouseInfo = new google.maps.InfoWindow
+  hostelInfo = new google.maps.InfoWindow
     content: """
-      <h3>OldHouse Hostel</h3>
-      <p class="lead">Uus 26</p>
-      <p><a href="http://www.oldhouse.ee/">oldhouse.ee</a></p>
+      <h3>Welcome Hostel</h3>
+      <p class="lead">Rotermanni 12</p>
+      <p><a href="https://welcomehostel.ee/en/">welcomehostel.ee</a></p>
 """
-  oldhouse.addListener 'click', -> oldhouseInfo.open map, oldhouse
+  hostel.addListener 'click', -> hostelInfo.open map, hostel
 
 
-  # Rahvaülikool
+  # Vene
   new google.maps.Circle
     strokeColor: '#a43a5a'
     fillOpacity: 0
@@ -96,37 +97,68 @@ window.initMap = ->
 """
   vene.addListener 'click', -> veneInfo.open map, vene
 
-  # Hopner
+
+  # Rahvaülikool
   new google.maps.Circle
     strokeColor: '#a43a5a'
     fillOpacity: 0
     strokeWeight: 4
     map: map
     center:
-      lat: 59.436971
-      lng: 24.746016
+      lat: 59.434815
+      lng: 24.753262
     radius: 20
 
-  hopner = new google.maps.Marker
+  uni = new google.maps.Marker
     position:
-      lat: 59.436971
-      lng: 24.746016
+      lat: 59.434815
+      lng: 24.753262
     map: map
-    title: 'Hopner\'s house'
+    title: 'Tallinna Rahvaülikool'
+    label: '3'
+
+  uniInfo = new google.maps.InfoWindow
+    content: """
+      <h3>Tallinna Rahvaülikool</h3>
+      <p class="lead">Estonia pst 5a, Tallinn, Estonia</p>
+      <p>Workshops venue.</p>
+"""
+  uni.addListener 'click', -> uniInfo.open map, uni
+
+  # Bar
+  new google.maps.Circle
+    strokeColor: '#a43a5a'
+    fillOpacity: 0
+    strokeWeight: 4
+    map: map
+    center:
+      lat: 59.440317
+      lng: 24.749507
+    radius: 20
+
+  bar = new google.maps.Marker
+    position:
+      lat: 59.440317
+      lng: 24.749507
+    map: map
+    title: 'Nāga Naga bar'
     label: '4'
 
-  hopnerInfo = new google.maps.InfoWindow
+  barInfo = new google.maps.InfoWindow
     content: """
-      <h3>Hopner's house</h3>
-      <p class="lead">Vene 6, Tallinn</p>
-      <p>Workshops venue</p>
+      <h3>Nāga Naga bar</h3>
+      <p class="lead">Uus 25, Tallinn</p>
 """
-  hopner.addListener 'click', -> hopnerInfo.open map, hopner
+  bar.addListener 'click', -> barInfo.open map, bar
 
 
 # Open a modal window with the set modal's content loaded
 # url should be in the form workshops/do-it-yourself.html (no leading # or /)
 showModal = (url) ->
+
+  # Append the modal's ID to the URL's hash
+  window.location.hash = url.replace('.html', '')
+
   # Forcing the prepending of .href helps mitigate some XSS attacks
   url = "#{getPageUrl()}#{url}.html"
   $('#modal-details').find('.modal-content').html('').load(url)
@@ -139,6 +171,40 @@ getPageUrl = ->
 equalizeColumns = ->
   # Non-flexbox hack to get Bootstrap columns to be of matching height
   $('.row-equal-height [class^="col-"]').matchHeight()
+
+# Return the index of the currently open modal
+# Index is taken from the global schedule (data-index) attribute
+getCurrentModalIndex = ->
+  currentUrl = window.location.hash.replace('#','') + '.html'
+  currentElement = 'a[href="'+currentUrl+'"][data-index]'
+  return parseInt($(currentElement).data('index'))
+
+# Given an event index (global schedule), return a URL fragment to it
+getModalURLByIndex = (index) ->
+  el = $('a[data-index="' + index + '"]')
+  if el.length
+    return el.attr('href').replace('.html', '')
+  else
+    return null
+
+# Navigate to the next event (modal)
+openNextModal = ->
+  url = getModalURLByIndex(getCurrentModalIndex() + 1)
+  if url
+    showModal(url)
+
+# Navigate to the previous event (modal)
+openPreviousModal = ->
+  url = getModalURLByIndex(getCurrentModalIndex() - 1)
+  if url
+    showModal(url)
+
+# Next / previous modal window navigation on arrow key press
+$(document).keydown (e) ->
+  switch e.key
+    when 'ArrowLeft' then openPreviousModal()
+    when 'ArrowRight' then openNextModal()
+    else return
 
 $ ->
 
@@ -198,10 +264,3 @@ $ ->
   # This allows linking directly to some specific modals
   if window.location.hash
     showModal window.location.hash.replace('#','')
-
-  # Mouseflow; WICKED IS GOOD
-  window._mfq = window._mfq || [];
-  mf = document.createElement("script");
-  mf.type = "text/javascript"; mf.async = true;
-  mf.src = "//cdn.mouseflow.com/projects/0493ae46-6a27-4b76-9218-e1f83dc5b29a.js";
-  document.getElementsByTagName("head")[0].appendChild(mf);
