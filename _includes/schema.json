@@ -1,8 +1,8 @@
 {
   "@context": "http://schema.org",
   "@type": "Festival",
-  "endDate": "2016-10-22",
-  "startDate": "2016-10-20",
+  "endDate": "2018-09-22",
+  "startDate": "2018-09-20",
   "eventStatus": "EventScheduled",
   "typicalAgeRange":"All Ages",
   "location": {
@@ -13,8 +13,8 @@
   "offers": {
     "@type": "AggregateOffer",
     "category": "primary",
-    "lowPrice": "6€",
-    "highPrice": "150€",
+    "lowPrice": "8.5€",
+    "highPrice": "12.50€",
     "url": "{% t performances.ticket_links.all_performances %}"
   },
   "isAccessibleForFree": false,
