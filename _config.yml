@@ -28,6 +28,7 @@ plugins:
  - jekyll-assets
  - jekyll-multiple-languages-plugin
  - jekyll-coffeescript
+ - jekyll-target-blank
 
 defaults:
   - scope:

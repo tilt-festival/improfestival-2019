@@ -6,7 +6,7 @@ gem 'sass'
 gem 'uglifier'
 gem 'kramdown', '~>1.16'
 gem 'yaml-lint'
-
+gem 'jekyll-target-blank'
 gem 'autoprefixer-rails'
 
 group :jekyll_plugins do
