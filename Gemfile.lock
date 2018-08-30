@@ -74,9 +74,6 @@ GEM
       jekyll (~> 3.1)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-target-blank (1.1.0)
-      jekyll (~> 3.0)
-      nokogiri (~> 1.8.2)
     jekyll-watch (2.0.0)
       listen (~> 3.0)
     kramdown (1.16.2)
@@ -109,6 +106,9 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    scss-lint (0.7.0)
+      colorize
+      sass
     sprockets (3.7.1)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
@@ -132,9 +132,9 @@ DEPENDENCIES
   jekyll-assets (~> 3.0)
   jekyll-coffeescript (~> 1.1)
   jekyll-multiple-languages-plugin (= 1.5.0)
-  jekyll-target-blank
   kramdown (~> 1.16)
   sass
+  scss-lint
   uglifier
   yaml-lint
 
