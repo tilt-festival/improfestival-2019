@@ -18,7 +18,7 @@
     "url": "{% t performances.ticket_links.all_performances %}"
   },
   "isAccessibleForFree": false,
-  "image": "https://improfestival.ee/{{ site.url }}{{ 'social-header.png' | asset_path }}",
+  "image": "https://improfestival.ee/{{ site.url }}{% asset "social-header.png" @path %}",
   "name": "{% t global.title %}",
   "description": "{% t global.description %}",
   "url": "{{ site.url }}",
