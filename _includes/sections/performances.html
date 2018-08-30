@@ -11,17 +11,20 @@
         {% for performer in performances %}
         {% capture index %}{% cycle performances: 'one', 'two', 'three' %}{% endcapture %}
 
-        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 col-schedule">
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 col-schedule">
             <h4 class="text-center">
                 <a href="{{ site.baseurl | append:performer.url }}" data-toggle="modal" data-target="#modal-details">
                     {% t performer.name %}</a>
             </h4>
             <a href="{{ site.baseurl | append:performer.url }}" data-toggle="modal" data-target="#modal-details">
                 <div class="image-container">
-                    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                         data-src="{% asset "{{ performer.image}}" @path %}"
-                         alt="{% t performer.name %}"
-                         class="b-lazy img-responsive center-block" />
+                    {% capture alt %}{% t performer.name %}{% endcapture %}
+
+                    <picture class="img-responsive center-block">
+                        <source srcset="{% asset "{{ performer.image | replace: 'square', 'wide' }}" @path %}" media="(max-width: 768px)" />
+                        <source srcset="{% asset "{{ performer.image }}" @path %}" media="(min-width: 768px)" />
+                        <img src="{% asset "{{ performer.image }}" @path %}" alt="{{ alt | escape }}" />
+                    </picture>
 
                     {% if performer.sold_out %}
                     <h3>{% t content.sold_out %}</h3>

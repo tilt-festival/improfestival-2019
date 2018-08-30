@@ -1,4 +1,4 @@
 url: http://localhost:8081
-languages: ["ee"]
-#languages: ["ee", "en"]
+languages: ["et"]
+#languages: ["et", "en"]
 environment: development

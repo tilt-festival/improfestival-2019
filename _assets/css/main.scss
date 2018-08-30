@@ -25,6 +25,7 @@ $youtube-red: #b31217;
 }
 
 @font-face {
+  font-display: fallback;
   font-family: 'Open Sans';
   @include fontdef('Regular');
   font-weight: normal;
@@ -32,6 +33,7 @@ $youtube-red: #b31217;
 }
 
 @font-face {
+  font-display: fallback;
   font-family: 'Open Sans';
   @include fontdef('Semibold');
   font-weight: 500;

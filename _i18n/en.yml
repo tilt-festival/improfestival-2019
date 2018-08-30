@@ -1,13 +1,13 @@
 ---
 global:
-  title: The 5th International Improv Festival Tilt
+  title: The 6th International Improv Festival Tilt
   description: >
-    The Fifth International Improv Festival Tilt brings
+    The Sixth International Improv Festival Tilt brings
     you the overview of Estonian improv theatres and also best
     improv actors and teachers from all over the world! Welcome
     to the party of spontaneous theatre!
-  dates: September 20 - 22 2017 in Tallinn
-  title_short: The 5th International Improv Festival
+  dates: September 20 - 22 2018 in Tallinn
+  title_short: The 6th International Improv Festival
   english: Eng
   estonian: Est
 menu:
@@ -27,23 +27,24 @@ tilt:
     intro: >
       The 6th Tilt festival will take place in Tallinn, on September 20 - 22.<br /><br />
       More information to appear in the following months.
-      Until then, check out the fun we had last year!
     registration: Participate in Tilt as a solo improviser!
     solo_link: See more »
 stats:
   total_years: 6 years
-  total_performances: 61 performances
-  total_workshops: 36 workshops
+  total_performances: 79 performances
+  total_workshops: 51 workshops
 
 map:
+  food: Söök / jook
+  food_address: Nāga Naga baar (Uus 25)
   hostel: Hostel
-  hostel_address: OldHouse Hostel, Uus 26
+  hostel_address: Welcome Hostel, Rotermanni 12
   performance_venue: Performance Venue
-  performance_venue_address: St. Catherine's Church, Vene 14a
+  performance_venue_address: The Cinema (Kinomaja), Uus 3
   workshop_venue: Workshop Venue
   workshop_venue_address: >
     Tallinna Rahvaülikooli Teatrikeskus (Vene 6)
-    and Hopner's house (Raekoja plats 18)
+    and Tallinna Rahvaülikool (Estonia pst 5a)
 
 month:
   january: January
@@ -60,64 +61,68 @@ month:
   december: December
 workshops:
   titles:
-    peak_performance: Peak Performance
-    read_the_scene_dont_write_it: Read the scene! Don’t write it!
-    talking_no_talking: Talking, no talking
-    the_tiny_glass_man: The tiny glass man
-    time_to_get_uncomfortable: Time to get uncomfortable
-    sing_it_out_loud: Sing it out loud!
-    move_your_body_sensitive_animal: Move your body! Sensitive animal
+    always_with_pleasure: Always With Pleasure
+    feedback_in_improv_world: Feedback In Improv World
+    feel_me: Feel Me
+    from_tradition_to_improv: From Tradition to Improv
+    max_q_finding_the_next_beat: 'Max Q: Finding the Next Beat'
+    shifting_gears: Shifting Gears
+    the_physical_comedian: The Physical Comedian
+    the_strategy_behind_a_character: The Strategy Behind a Character
 performances:
   titles:
-    ruutu10_mic: Ruutu10 (EST) - "T&R" & Moscow Improv Club (RUS) - "1, 2, 3 Poyekhali!"
-    ruutu10_jaa: Ruutu10 (EST) - "JD" & Jaa !mproteater (EST) - "What could go wrong?"
-    hallbang_imkubik: Hall and the Bang (SWE/AUS) - "#Perfectmatch2K30" & imKubik (CHE) - "Without a word"
-    impeerium_each_other: Improteater IMPEERIUM (EST) - "Tell Us!" & Each Other (LAT/FRA) - "Say Something"
-    kokkoflava_nick: Kokkoflava (FIN/FRA) - "TEMPO" & Nick Byrne (AUS) - "Inspired"
-    rocky_moment: The Moment (FIN/USA) - "Here, Now" & Rocky Amaretto (NLD) - "Eerybody has one"
-    mixer_a: "Let the Music Play"
-    mixer_bc: '"Courtesy Sleeve" & "Parallel"'
-    mixer_de: '"Any Given Day" & "The Place"'
+    divas_poulpe: D I V A S (LVA) - “Five Minutes Later” & Poulpe (FRA) - “(G)oldies”
+    freiwild_peter_emma: frei.wild Improvisationstheater Berlin (DEU) - “Lucky Losers” & Peter More ja Emma Wessleus (GBR) - “Mørdsäga”
+    istanbulimpro_easylaughs: Istanbulimpro (TUR) - “Pulkade ja rätikute taga peituvad lood” & easylaughs (NLD) - “Tarantino”
+    jaa_impeerium: Jaa !mproteater (EST) - “Castaway” & Improteater IMPEERIUM (EST) - “Romantic Comedy”
+    kiki_kevin_acaprov: Kiki and Kevin (NLD/USA) - "Helmet Thieves" & Acaprov (GBR) - “AcaTilt”
+    mixer_ab: '"Degrees of Separation" & "Follow the Leaver"'
+    mixer_cd: '"Once Upon a Time..." & "In Silent"'
+    mixer_ef: '"Devil’s Triangle" & "Long-form Murder Mystery"'
+    tahel_ruutu: Rahel ja Timo (EST) - “Two Chairs” & Ruutu10 (EST) - “A Conversation”
     festival_pass: FESTIVAL PASS
-    supporter_pass: SUPPORTER'S PASS
+    supporter_pass: SUPPORTER PASS
   names:
-    ruutu10_mic: Ruutu10 (EST) & Moscow Improv Club (RUS)
-    ruutu10_jaa: Ruutu10 (EST) & Jaa !mproteater (EST)
-    hallbang_imkubik: Hall and the Bang (SWE/AUS) & imKubik (CHE)
-    impeerium_each_other: Improteater IMPEERIUM (EST) & Each Other (LAT/FRA)
-    kokkoflava_nick: Kokkoflava (FIN/FRA) & Nick Byrne (AUS)
-    rocky_moment: The Moment (FIN/USA) & Rocky Amaretto (NLD)
-    mixer_a: "Let the Music Play"
-    mixer_bc: '"Courtesy Sleeve" & "Parallel"'
-    mixer_de: '"Any Given Day" & "The Place"'
-    festival_pass: FESTIVAL PASS
-    supporter_pass: SUPPORTER'S PASS
+    divas_poulpe: D I V A S (LVA) & Poulpe (FRA)
+    freiwild_peter_emma: frei.wild Improvisationstheater Berlin (DEU) & Peter More and Emma Wessleus (GBR)
+    istanbulimpro_easylaughs: Istanbulimpro (TUR) & easylaughs (NLD)
+    jaa_impeerium: Jaa !mproteater (EST) & Improteater IMPEERIUM (EST)
+    kiki_kevin_acaprov: Kiki and Kevin (NLD/USA) & Acaprov (GBR)
+    mixer_ab: '"Degrees of Separation" & "Follow the Leaver"'
+    mixer_cd: '"Once Upon a Time..." & "In Silent"'
+    mixer_ef: '"Devil’s Triangle" & "Long-form Murder Mystery"'
+    tahel_ruutu: Rahel ja Timo (EST) & Ruutu10 (EST)
+    festival_pass: FESTIVALI PASS
+    supporter_pass: TOETAJA PASS
 
   ticket_links:
-    ruutu10_mic: https://
-    ruutu10_jaa: https://
-    hallbang_imkubik: https://
-    impeerium_each_other: https://
-    kokkoflava_nick: https://
-    rocky_moment: https://
+    divas_poulpe: https://www.piletilevi.ee/eng/tickets/teater/improvisatsioon/d-i-v-a-s-lva--poulpe-fra-261740/
+    freiwild_peter_emma: https://www.piletilevi.ee/eng/tickets/teater/improvisatsioon/freiwild-improvisationstheater-berlin-deu--peter-more-and-emma-wessleus-gbr-261763/
+    istanbulimpro_easylaughs: https://www.piletilevi.ee/eng/tickets/teater/improvisatsioon/istanbulimpro-tur--easylaughs-nld-261765/
+    jaa_impeerium: https://www.piletilevi.ee/eng/tickets/teater/improvisatsioon/jaa-mproteater-est--improteater-impeerium-est-261757/
+    kiki_kevin_acaprov: https://www.piletilevi.ee/eng/tickets/teater/improvisatsioon/kiki-and-kevin-nld-usa--acaprov-gbr-261761/
+    mixer_ab: https://www.piletilevi.ee/eng/tickets/teater/improvisatsioon/erinevusastmed--jargne-lahkujale-261695/
+    mixer_cd: https://www.piletilevi.ee/eng/tickets/teater/improvisatsioon/elas-kord--haaletult-261752/
+    mixer_ef: https://www.piletilevi.ee/eng/tickets/teater/improvisatsioon/kuradi-kolmnurk--morvamusteerium-261762/
+    tahel_ruutu: https://www.piletilevi.ee/eng/tickets/teater/improvisatsioon/rahel-ja-timo-est--ruutu10-est-261700/
     all_performances: https://
-    mixer_a: https://
-    mixer_bc: https://
-    mixer_de: https://
     day_tickets: https://
-    festival_pass: https://
-    supporter_pass: https://
+    festival_pass: https://www.piletilevi.ee/eng/tickets/teater/improvisatsioon/kuues-rahvusvaheline-improteatrite-festival-tilt-festivali-pass-261687/
+    supporter_pass: https://www.piletilevi.ee/eng/tickets/teater/improvisatsioon/kuues-rahvusvaheline-improteatrite-festival-tilt-toetaja-pass-261692/
   in_eng: in English
   in_est: in Estonian
   in_mixed: Mixed languages
 venues:
-  catherine: "St Catherine's Church"
+  cinema: "The Cinema (Kinomaja)"
   vene: 'Vene 6 (Rahvaülikooli Teatrikeskus)'
+  uni: Estonia pst 5a (Tallinna Rahvaülikool)
+  bar: Nāga Naga bar
+  hostel: Welcome Hostel
 
 titles:
   days_count: 3 days
-  performances_count: 13 performers
-  workshops_count: 9 workshops
+  performances_count: 18 performers
+  workshops_count: 8 workshops
 content:
   get_ticket: Get a festival ticket
   get_tickets: Get tickets to Tilt performances
