@@ -20,7 +20,7 @@
                 <div class="image-container">
                     {% capture alt %}{% t performer.name %}{% endcapture %}
 
-                    <picture class="img-responsive center-block">
+                    <picture class="img-responsive center-block b-lazy">
                         <source srcset="{% asset "{{ performer.image | replace: 'square', 'wide' }}" @path %}" media="(max-width: 768px)" />
                         <source srcset="{% asset "{{ performer.image }}" @path %}" media="(min-width: 768px)" />
                         <img src="{% asset "{{ performer.image }}" @path %}" alt="{{ alt | escape }}" />
