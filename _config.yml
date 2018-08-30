@@ -76,7 +76,6 @@ assets:
 
 extlinks:
   attributes:
-    rel: nofollow
     target: _blank
   rel_exclude:
     - 2013.improfestival.ee
