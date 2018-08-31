@@ -10,6 +10,8 @@ frei.wild Improvisationstheater on tegutsenud üle 11 aasta ning esinenud üle t
 
 - [frei-wild-berlin.de](https://frei-wild-berlin.de/)
 - [facebook.com/frei.wild.berlin](https://de-de.facebook.com/frei.wild.berlin)
+- [youtube.com/channel/UCbK359Tyaq4h5cjFONvVRZA](https://www.youtube.com/channel/UCbK359Tyaq4h5cjFONvVRZA)
+- [twitter.com/freiwildimpro](https://twitter.com/freiwildimpro)
 
 ### Peter More ja Emma Wessleus (GBR) - “Mørdsäga”
 
