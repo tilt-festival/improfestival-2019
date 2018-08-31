@@ -6,7 +6,7 @@ title: workshops.titles.shifting_gears
 name: Jochem Meijer
 country: nld
 image: workshops/jochem_meijer.jpg
-sold_out: false
+sold_out: true
 venue: vene
 ticket_url: https://fienta.com/jochem-meijer-nld-shifting-gears
 ---
