@@ -6,7 +6,7 @@ title: workshops.titles.max_q_finding_the_next_beat
 name: Kevin Miller
 country: usa
 image: workshops/kevin_miller.jpg
-sold_out: false
+sold_out: true
 venue: vene
 ticket_url: https://fienta.com/kevin-miller-usa-max-q-finding-the-next-beat
 ---

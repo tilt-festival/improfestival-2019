@@ -6,7 +6,7 @@ title: workshops.titles.the_physical_comedian
 name: Morgan Mansouri
 country: fra
 image: workshops/morgan_mansouri.jpg
-sold_out: false
+sold_out: true
 venue: vene
 ticket_url: https://fienta.com/morgan-mansouri-fra-the-physical-comedian
 ---
