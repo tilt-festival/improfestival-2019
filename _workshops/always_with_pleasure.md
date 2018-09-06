@@ -6,7 +6,7 @@ title: workshops.titles.always_with_pleasure
 name: Kayleigh Cassidy
 country: gbr
 image: workshops/kayleigh_cassidy.jpg
-sold_out: false
+sold_out: true
 venue: vene
 ticket_url: https://fienta.com/kayleigh-cassidy-gbr-always-with-pleasure
 ---
