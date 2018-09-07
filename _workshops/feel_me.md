@@ -6,7 +6,7 @@ title: workshops.titles.feel_me
 name: Katarzyna Chmara
 country: pol
 image: workshops/katarzyna_chmara.jpg
-sold_out: false
+sold_out: true
 venue: vene
 ticket_url: https://fienta.com/katarzyna-chmara-pol-feel-me
 ---
