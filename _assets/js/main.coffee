@@ -211,6 +211,8 @@ $ ->
   # Implement lazy loading of images
   new Blazy
     offset: 800
+    success: (e) ->
+      equalizeColumns()
 
   # Smooth out scrolling effect when clicking on a hash link
   $('a[href^="#"]').smoothScroll
