@@ -6,7 +6,7 @@ title: workshops.titles.feedback_in_improv_world
 name: Michaela Puchalková
 country: cze
 image: workshops/michaela_puchalkova.jpg
-sold_out: false
+sold_out: true
 venue: uni
 ticket_url: https://fienta.com/michaela-puchalkova-cze-feedback-in-improv-world
 ---
