@@ -6,7 +6,7 @@ title: workshops.titles.the_strategy_behind_a_character
 name: Kaspars Breidaks
 country: lva
 image: workshops/kaspars_breidaks.jpg
-sold_out: false
+sold_out: true
 venue: uni
 ticket_url: https://fienta.com/kaspars-breidaks-lva-the-strategy-behind-a-character
 ---
