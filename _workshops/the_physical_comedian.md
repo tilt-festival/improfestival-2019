@@ -8,7 +8,7 @@ country: fra
 image: workshops/morgan_mansouri.jpg
 sold_out: true
 venue: vene
-ticket_url: https://fienta.com/morgan-mansouri-fra-the-physical-comedian
+ticket_url: https://
 ---
 
 This workshop explores ways of using the human body as a tool for comedy and storytelling.

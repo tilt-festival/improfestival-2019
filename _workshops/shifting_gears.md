@@ -8,7 +8,7 @@ country: nld
 image: workshops/jochem_meijer.jpg
 sold_out: true
 venue: vene
-ticket_url: https://fienta.com/jochem-meijer-nld-shifting-gears
+ticket_url: https://
 ---
 
 Improvisational theater comes in many forms and a lot of troupes specialize on a particular style. Some will talk

@@ -8,7 +8,7 @@ country: pol
 image: workshops/katarzyna_chmara.jpg
 sold_out: true
 venue: vene
-ticket_url: https://fienta.com/katarzyna-chmara-pol-feel-me
+ticket_url: https://
 ---
 
 When you believe in emotions on stage, the audience also will.

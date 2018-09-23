@@ -8,7 +8,7 @@ country: lva
 image: workshops/kaspars_breidaks.jpg
 sold_out: true
 venue: uni
-ticket_url: https://fienta.com/kaspars-breidaks-lva-the-strategy-behind-a-character
+ticket_url: https://
 ---
 
 Occupation, wants and dreams are not the only things that define a character. Even

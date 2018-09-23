@@ -8,7 +8,7 @@ country: tur
 image: workshops/koray_tarhan.jpg
 sold_out: false
 venue: vene
-ticket_url: https://fienta.com/koray-tarhan-tur-from-tradition-to-improv
+ticket_url: https://
 ---
 
 The session starts with some warm up including traditional games. It continues with the explanations of games

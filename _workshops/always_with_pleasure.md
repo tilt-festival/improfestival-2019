@@ -8,7 +8,7 @@ country: gbr
 image: workshops/kayleigh_cassidy.jpg
 sold_out: true
 venue: vene
-ticket_url: https://fienta.com/kayleigh-cassidy-gbr-always-with-pleasure
+ticket_url: https://
 ---
 
 Do you find it difficult to get out of your head and into your body? Do you find yourself judging yourself or your
