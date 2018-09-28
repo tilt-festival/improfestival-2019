@@ -6,7 +6,7 @@ title: workshops.titles.always_with_pleasure
 name: Kayleigh Cassidy
 country: gbr
 image: workshops/kayleigh_cassidy.jpg
-sold_out: true
+sold_out: false
 venue: vene
 ticket_url: https://
 ---

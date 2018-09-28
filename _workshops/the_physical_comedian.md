@@ -6,7 +6,7 @@ title: workshops.titles.the_physical_comedian
 name: Morgan Mansouri
 country: fra
 image: workshops/morgan_mansouri.jpg
-sold_out: true
+sold_out: false
 venue: vene
 ticket_url: https://
 ---

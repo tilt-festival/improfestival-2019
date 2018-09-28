@@ -6,7 +6,7 @@ title: workshops.titles.feel_me
 name: Katarzyna Chmara
 country: pol
 image: workshops/katarzyna_chmara.jpg
-sold_out: true
+sold_out: false
 venue: vene
 ticket_url: https://
 ---

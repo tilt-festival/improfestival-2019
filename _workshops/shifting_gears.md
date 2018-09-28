@@ -6,7 +6,7 @@ title: workshops.titles.shifting_gears
 name: Jochem Meijer
 country: nld
 image: workshops/jochem_meijer.jpg
-sold_out: true
+sold_out: false
 venue: vene
 ticket_url: https://
 ---
