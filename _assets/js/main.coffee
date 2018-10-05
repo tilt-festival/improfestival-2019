@@ -266,3 +266,15 @@ $ ->
   # This allows linking directly to some specific modals
   if window.location.hash
     showModal window.location.hash.replace('#','')
+
+  # Troll Kevin Miller by request of Princess
+  a = -> 
+    alt = $(this).attr('src')
+    $(this).attr('src', $(this).data('alt-src'))
+    $(this).data('alt-src', alt)
+  b = -> 
+    alt = $(this).attr('src')
+    $(this).attr('src', $(this).data('alt-src'))
+    $(this).data('alt-src', alt)
+
+  $('.img-kevin').hover a, b
