@@ -278,3 +278,5 @@ $ ->
     $(this).data('alt-src', alt)
 
   $('.img-kevin').hover a, b
+
+  $('#next-tilt-modal').modal('show');
