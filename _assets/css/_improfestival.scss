@@ -382,3 +382,14 @@ blockquote {
   padding: 1em;
 }
 
+.planning-row {
+  text-align: center;
+  h3 {
+    color: $brand-primary;
+  }
+
+  p {
+    font-size: 2em;
+    margin-top: 2em;
+  }
+}

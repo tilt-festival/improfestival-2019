@@ -1,13 +1,13 @@
 ---
 global:
-  title: Kuues Rahvusvaheline Improteatrite Festival Tilt
+  title: Seitsmes Rahvusvaheline Improteatrite Festival Tilt
   description: >
-    Kuues rahvusvaheline improteatrite festival Tilt toob
+    Seitsmes rahvusvaheline improteatrite festival Tilt toob
     teie ette ülevaate Eesti improteatritest ning parimad
     impronäitlejad ja -koolitajad üle kogu maailma! Olete
     palutud spontaanse teatri peole!
-  dates: 20.-22. september, 2018
-  title_short: Kuues Rahvusvaheline Improteatrite Festival
+  dates: 19.-21. september, 2018
+  title_short: Seitsmes Rahvusvaheline Improteatrite Festival
   english: Eng
   estonian: Est
 menu:
@@ -62,7 +62,7 @@ content:
   no_info_yet: See info pole veel saadaval
 
 stats:
-  total_years: 6 aastat
+  total_years: 7 aastat
   total_performances: 79 etendust
   total_workshops: 51 töötuba
 
@@ -137,5 +137,5 @@ footer:
 tilt:
   next:
     heading: Tilt 2019
-    close: Eelmise aasta Tildi kodulehele
-    intro: Tilt 2019 toimub 19.-21. septembril! Rohkem infot ning sooloimprotajate registreerimine tulekul.
+    intro: Tilt 2019 toimub 19.-21. septembril! Rohkem infot tulekul.
+    solo_registration: Sooloimproviseerija registreerimine

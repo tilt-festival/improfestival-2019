@@ -1,13 +1,13 @@
 ---
 global:
-  title: The 6th International Improv Festival Tilt
+  title: The 7th International Improv Festival Tilt
   description: >
-    The Sixth International Improv Festival Tilt brings
+    The Seventh International Improv Festival Tilt brings
     you the overview of Estonian improv theatres and also best
     improv actors and teachers from all over the world! Welcome
     to the party of spontaneous theatre!
-  dates: September 20 - 22 2018 in Tallinn
-  title_short: The 6th International Improv Festival
+  dates: September 19 - 21 2019 in Tallinn
+  title_short: The 7th International Improv Festival
   english: Eng
   estonian: Est
 menu:
@@ -22,7 +22,7 @@ menu:
   close: Close
 
 stats:
-  total_years: 6 years
+  total_years: 7 years
   total_performances: 79 performances
   total_workshops: 51 workshops
 
@@ -137,5 +137,5 @@ footer:
 tilt:
   next:
     heading: Tilt 2019
-    close: To last year's Tilt website
-    intro: Tilt 2019 is coming on 19-21 September! Stay tuned for more information and solo improviser registration.
+    intro: Tilt 2019 is coming on 19-21 September! Stay tuned for more information.
+    solo_registration: Register as a solo improviser
