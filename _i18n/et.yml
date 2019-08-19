@@ -41,6 +41,7 @@ venues:
   bar: Nāga Naga bar
   hostel: Welcome Hostel
   vene: 'Vene 6 (Rahvaülikooli Teatrikeskus)'
+  hopner: 'Hoovimaja, Hopneri maja, Raekoja plats 18'
 
 titles:
   days_count: 3 päeva
@@ -80,14 +81,18 @@ map:
 
 workshops:
   titles:
-    always_with_pleasure: Always With Pleasure
-    feedback_in_improv_world: Feedback In Improv World
-    feel_me: Feel Me
-    from_tradition_to_improv: From Tradition to Improv
-    max_q_finding_the_next_beat: 'Max Q: Finding the Next Beat'
-    shifting_gears: Shifting Gears
-    the_physical_comedian: The Physical Comedian
-    the_strategy_behind_a_character: The Strategy Behind a Character
+    a_simple_lovestory: A Simple Lovestory
+    be_a_troublemaker_fuel_the_scene: Be a Troublemaker, Fuel the Scene
+    being_a_dream_partner: Being a Dream Partner
+    discovering_songs: Discovering Songs
+    fiendish_plotting: Fiendish Plotting
+    how_to_make_improv_easy: How to make improv easy
+    jump_on_it: Jump on it
+    silence_loud_and_clear: "Silence: Lound & Clear"
+    stand_up_and_improv: Stand-up and Improv
+    the_mono_scene: 'The ICC Theatre long-form structure “The Mono scene”'
+    trust_your_sexuality: Trust Your Sexuality
+    unplug_your_brain: Unplug Your Brain
 performances:
   titles:
     divas_poulpe: D I V A S (LVA) - “Viis minutit hiljem” & Poulpe (FRA) - “Muld või kuld”
