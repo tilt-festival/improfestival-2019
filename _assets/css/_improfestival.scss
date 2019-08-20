@@ -315,10 +315,10 @@ blockquote {
   }
 
   img {
-    @include clip-down(10%);
     height: 10em;
     margin-bottom: .3em;
     object-fit: cover;
+    object-position: 50% 30%;
     width: 100%;
   }
 
