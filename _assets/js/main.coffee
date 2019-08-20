@@ -98,32 +98,32 @@ window.initMap = ->
   vene.addListener 'click', -> veneInfo.open map, vene
 
 
-  # Rahvaülikool
+  # Hopner
   new google.maps.Circle
     strokeColor: '#a43a5a'
     fillOpacity: 0
     strokeWeight: 4
     map: map
     center:
-      lat: 59.434815
-      lng: 24.753262
+      lat: 59.437359
+      lng: 24.746015
     radius: 20
 
-  uni = new google.maps.Marker
+  hopner = new google.maps.Marker
     position:
-      lat: 59.434815
-      lng: 24.753262
+      lat: 59.437359
+      lng: 24.746015
     map: map
-    title: 'Tallinna Rahvaülikool'
+    title: 'Hopner\'s house'
     label: '3'
 
-  uniInfo = new google.maps.InfoWindow
+  hopnerInfo = new google.maps.InfoWindow
     content: """
-      <h3>Tallinna Rahvaülikool</h3>
-      <p class="lead">Estonia pst 5a, Tallinn, Estonia</p>
+      <h3>Hopner's house</h3>
+      <p class="lead">Raekoja plats 18, Tallinn, Estonia</p>
       <p>Workshops venue.</p>
 """
-  uni.addListener 'click', -> uniInfo.open map, uni
+  hopner.addListener 'click', -> hopnerInfo.open map, hopner
 
   # Bar
   new google.maps.Circle
