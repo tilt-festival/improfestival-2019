@@ -1,11 +1,3 @@
-- name: Tallinna Rahvaülikool
-  logo: sponsors/toomklubi.png
-  url: http://kultuur.ee
-
-- name: Suveterrass
-  logo: sponsors/suveterrass.jpg
-  url: https://suveterrass.getaway.ee
-
 - name: Eesti Kultuurikapital
   logo: sponsors/kulka.png
   url: https://www.kulka.ee
@@ -17,6 +9,14 @@
 - name: Tallinna Kesklinna Valitsus
   logo: sponsors/kesklinn.png
   url: https://www.tallinn.ee/est/kesklinn
+
+- name: Tallinna Rahvaülikool
+  logo: sponsors/toomklubi.png
+  url: http://kultuur.ee
+
+- name: Suveterrass
+  logo: sponsors/suveterrass.jpg
+  url: https://suveterrass.getaway.ee
 
 - name: Walgus Media
   logo: sponsors/walgus.png
