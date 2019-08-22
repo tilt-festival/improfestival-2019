@@ -41,6 +41,7 @@ venues:
   hostel: Welcome Hostel
   vene: 'Vene 6 (Rahvaülikooli Teatrikeskus)'
   hopner: 'Hoovimaja, Hopneri maja, Raekoja plats 18'
+  catherine: 'Katariina kirik (Vene 14a)'
 
 titles:
   days_count: 3 päeva
@@ -94,43 +95,41 @@ workshops:
     unplug_your_brain: Unplug Your Brain
 performances:
   titles:
-    divas_poulpe: D I V A S (LVA) - “Viis minutit hiljem” & Poulpe (FRA) - “Muld või kuld”
-    freiwild_peter_emma: frei.wild Improvisationstheater Berlin (DEU) - “Õnnelikud kaotajad” & Peter More ja Emma Wessleus (GBR) - “Mørdsäga”
-    istanbulimpro_easylaughs: Istanbulimpro (TUR) - “Pulkade ja rätikute taga peituvad lood” & easylaughs (NLD) - “Tarantino”
-    jaa_impeerium: Jaa !mproteater (EST) - “Kaldale uhutud” & Improteater IMPEERIUM (EST) - “Romantiline komöödia”
-    kiki_kevin_acaprov: Kiki and Kevin (NLD/USA) - "Kiivrivargad" & Acaprov (GBR) - “AcaTilt”
-    mixer_ab: '"Erinevusastmed" & "Järgne lahkujale"'
-    mixer_cd: '"Elas kord..." & "Hääletult"'
-    mixer_ef: '"Kuradi kolmnurk" & "Mõrvamüsteerium"'
-    tahel_ruutu: Rahel ja Timo (EST) - “Kaks tooli” & Ruutu10 (EST) - “Vestlus”
-    festival_pass: FESTIVALI PASS
-    supporter_pass: TOETAJA PASS
+    dan_ella_doris: Dan & Ella (FRA/ESP) - “Origami luik” & Doris Likes Everything (FIN) - "Kaotajate tsirkus"
+    jaa_ruutu10: Jaa !mproteater ja Improkutsikad (EST) - “Maestro” & Ruutu10 (EST) - "See oli nali, onju?!"
+    rahel_mihkel_impeerium: Rahel ja Mihkel (EST) - “Vastamata kõned” & Improteater IMPEERIUM (EST) - “Kirjaniku eksklusiivsetel tekstidel"
+    speakeasy_7_women: The Improv Speakeasy (NOR) - “Alice impromaailmas” & 7 Women of Different Ages (POL)
+    troika_icc: Troika (LVA/RUS) - “Teekond” & ICC Theatre (DNK)
+    mixer_ab: '“Bonnie & Clyde” & “The Dropthrough”'
+    mixer_cd: '“Metronoom” & “Pilveatlas”'
+    mixer_ef: '“Sõnadeta: Heliline teos!” & “Portmanteau”'
+    us_boys_stacey: 'Us boys who go out together (CZE): “Böömimaa tragöödia” & Stacey Smith (USA) - “Stacejam”'
+    festival_pass: Festivali pass
+    supporter_pass: Toetaja pass
   names:
-    divas_poulpe: D I V A S (LVA) & Poulpe (FRA)
-    freiwild_peter_emma: frei.wild Improvisationstheater Berlin (DEU) & Peter More and Emma Wessleus (GBR)
-    istanbulimpro_easylaughs: Istanbulimpro (TUR) & easylaughs (NLD)
-    jaa_impeerium: Jaa !mproteater (EST) & Improteater IMPEERIUM (EST)
-    kiki_kevin_acaprov: Kiki and Kevin (NLD/USA) & Acaprov (GBR)
-    mixer_ab: '"Erinevusastmed" & "Järgne lahkujale"'
-    mixer_cd: '"Elas kord..." & "Hääletult"'
-    mixer_ef: '"Kuradi kolmnurk" & "Mõrvamüsteerium"'
-    tahel_ruutu: Rahel ja Timo (EST) & Ruutu10 (EST)
-    festival_pass: FESTIVALI PASS
-    supporter_pass: TOETAJA PASS
+    dan_ella_doris: Dan & Ella (FRA/ESP) & Doris Likes Everything (FIN)
+    jaa_ruutu10: Jaa !mproteater ja Improkutsikad (EST) & Ruutu10 (EST)
+    rahel_mihkel_impeerium: Rahel ja Mihkel (EST) & Improteater IMPEERIUM (EST)
+    speakeasy_7_women: The Improv Speakeasy (NOR) & 7 Women of Different Ages (POL)
+    troika_icc: Troika (LVA/RUS) & ICC Theatre (DNK)
+    mixer_ab: '“Bonnie & Clyde” & “The Dropthrough”'
+    mixer_cd: '“Metronoom” & “Pilveatlas”'
+    mixer_ef: '“Sõnadeta: Heliline teos!” & “Portmanteau”'
+    us_boys_stacey: 'Us boys who go out together (CZE) & Stacey Smith (USA)'
+    festival_pass: Festivali pass
+    supporter_pass: Toetaja pass
   ticket_links:
-    divas_poulpe: https://
-    freiwild_peter_emma: https://
-    istanbulimpro_easylaughs: https://
-    jaa_impeerium: https://
-    kiki_kevin_acaprov: https://
-    mixer_ab: https://
-    mixer_cd: https://
-    mixer_ef: https://
-    tahel_ruutu: https://
-    all_performances: https://
-    day_tickets: https://
-    festival_pass: https://
-    supporter_pass: https://
+    dan_ella_doris: https://fienta.com/et/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-dan-ella-fraesp-doris-likes-everything-fin?6d32855da127ae1d4ce97caac8671e55
+    jaa_ruutu10: https://fienta.com/et/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-jaa-mproteater-ja-improkutsikad-est-ruutu10-est?8ce1855d622d009999cc0fb37c8b82cc
+    rahel_mihkel_impeerium: https://fienta.com/et/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-rahel-ja-mihkel-est-improteater-impeerium-est?1a75c71fcdaca8fb7e87a91ad1ff4278
+    speakeasy_7_women: https://fienta.com/et/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-the-improv-speakeasy-nor-7-women-of-different-ages-pol?90283566fc0bc140ad45e2b3a8f565b9
+    troika_icc: https://fienta.com/et/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-troika-lvarus-icc-theatre-dnk?40a3d0cb4c3228c83dec39f3dbeac0be
+    mixer_ab: https://fienta.com/et/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-bonnie-clyde-the-dropthrough?9ca7c40b1361424f623009b7bf78fae1
+    mixer_cd: https://fienta.com/et/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-metronoom-pilveatlas?4afe7b80a0fbd421e525f322a975df84
+    mixer_ef: https://fienta.com/et/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-sonadeta-heliline-teos-portmanteau?1dc4894fef4ac9fc920aa3546f68263f
+    us_boys_stacey: https://fienta.com/et/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-us-boys-who-go-out-together-cze-stacey-smith-usa?cb26b8fcb96a8a12452aa0724015bdd9
+    festival_pass: https://fienta.com/et/seitsmes-rahvusvaheline-improteatrite-festival-tilt-festivali-pass?44d940b3760ce8ec653a43c3a130ac50
+    supporter_pass: https://fienta.com/et/seitsmes-rahvusvaheline-improteatrite-festival-tilt-toetaja-pass?977c05032d065a225d05f36cbb72f382
   in_eng: inglise keeles
   in_est: eesti keeles
   in_mixed: Eri keeltes
