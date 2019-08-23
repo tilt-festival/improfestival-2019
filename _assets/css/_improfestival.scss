@@ -49,12 +49,6 @@ i {
     height: 100%;
   }
 
-
-  .impro-10 {
-    width: 4em;
-    height: 2em;
-  }
-
   img {
     height: 80%;
     margin: 0 auto;
@@ -234,6 +228,12 @@ button {
   @include clip-up(10%);
   padding-top: 1em;
   text-align: right;
+
+  .impro-10 {
+    width: 4em;
+    height: 2em;
+    filter: brightness(0) invert(1);
+  }
 }
 
 .row.footer-bg {

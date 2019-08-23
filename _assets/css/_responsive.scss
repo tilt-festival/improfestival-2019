@@ -60,13 +60,6 @@
   .header-jumbotron {
 
 
-    .impro-10 {
-      width: 4em;
-      height: 2em;
-      position: absolute;
-      top: 2em;
-    }
-
     img {
       height: 100%;
       width: 90%;
@@ -194,6 +187,11 @@
     @include clip-up(10%);
     min-height: 20em;
     padding-top: 10em;
+
+    .impro-10 {
+      width: 8em;
+      height: 4em; 
+    }
   }
 
 
