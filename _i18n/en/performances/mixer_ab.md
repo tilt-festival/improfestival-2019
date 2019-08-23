@@ -1,27 +1,13 @@
-_The sixth international improv festival Tilt is very proud to welcome improvisers from countries nearby and far away.
-Because these participants are skillful at what they do, they are happy to engage in challenges that are bigger than
-just improvising a performance on the spot!_
+The seventh international improv festival Tilt is very proud to welcome improvisers from countries nearby and far away. Because these participants are skillful at what they do, they are happy to engage in challenges that are bigger than just improvising a performance on the spot! On the day of the mixer show, improvisers with different backgrounds have met in a workshop and with the help of the workshop instructor, they have prepared the format that you will see on the same evening. So it’s as fresh as it can be! Come to the performance and see how it all will turn out!
 
-_On the day of the mixer show, improvisers with different backgrounds have met in a workshop and with the help of
-the workshop instructor they have prepared the format that you will see on the same evening.
-So it’s as fresh as it can be! Come to the performance and see how it all will turn out!_
+## “Bonnie & Clyde”. Instructor: Małgorzata Różalska (POL)
 
-### “Degrees of Separation”. Instructor: Kevin Miller (USA)
+In English
 
-**The performance is in English.**
+Bonnie and Clyde - You and your partner. In crime. In story. In improv. No matter how many people play in a show, the base is the two-person scene. That's perfect to tell all the stories in the world, with different dynamics between two characters. Through love. Hate. Secrets. Duties. Shrek and Donkey. Arya and the Hound. Jules and Vincent. Claire and Frank Underwood. Rick and Morty. Let's explore the most popular dynamics between two characters. 
 
-Look around the next time you’re in a room full of people. Any one of them might have a fascinating story to tell.
+## “The Dropthrough”. Instructor: Jeron Dewulf Leiva (BEL)
 
-What if you could go along with them and learn it? In “Degrees of Separation,” an improvised story that seems to be
-about one character will suddenly pivot to become about another… and then another… and then another.
-There’s no single hero, just a complex web of scenes.
+In English
 
-### “Follow the Leaver”. Instructor: Michaela Puchalková (CZE)
-
-**The performance is in English.**
-
-Inspired by the film Slacker. Just like in the 1991 independent film Slacker, this format is like one long
-continuous camera shot following characters along to new locations and scenes.
-
-Everything takes place more or less in real time and the only way to edit a scene is to follow a
-character when he/she leaves one scene and enters a different one. 
+The performers ask for a general theme, like for example "water" and start with a public brainstorm that leads to a scene inspired by the theme. Then they start a second scene inspired by the first scene. The players can get inspired by emotion, sentence or movement. They can always start a new scene, a group movement scene or a monologue. In 30 minutes the audience will see more or less 20 scenes, movements or monologues inspired by the theme and by former scenes. 

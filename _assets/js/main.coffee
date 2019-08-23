@@ -10,35 +10,36 @@
 window.initMap = ->
   map = new google.maps.Map $('.map')[0],
     center:
-      lat: 59.437622
-      lng: 24.749914
-    zoom: 15
+      lat: 59.441386
+      lng: 24.751333
+    zoom: 14
 
-  cinema = new google.maps.Marker
+  catherine = new google.maps.Marker
     position:
-      lat: 59.437642
-      lng: 24.749892
+      lat: 59.437746
+      lng: 24.748497
     map: map
-    title: 'Kinomaja'
+    title: 'St. Catherine\'s Church'
     label: '1'
 
-  cinemaInfo = new google.maps.InfoWindow
+  catherineInfo = new google.maps.InfoWindow
     content: """
-      <h3>The Cinema (Kinomaja)</h3>
-      <p class="lead">Uus 3, Tallinn</p>
+      <h3>St. Catherine's Church</h3>
+      <p class="lead">Vene 14a, Tallinn</p>
       <p>Performance venue</p>
+      <a href="https://www.visitestonia.com/en/st-catherines-church" target="_blank">visitestonia.com/en/st-catherines-church</a></p>
 """
-  cinema.addListener 'click', -> cinemaInfo.open map, cinema
+  catherine.addListener 'click', -> catherineInfo.open map, catherine
 
-  # Cinema
+  # St. Catherine's
   new google.maps.Circle
     strokeColor: '#a43a5a'
     fillOpacity: 0
     strokeWeight: 4
     map: map
     center:
-      lat: 59.437642
-      lng: 24.749892
+      lat: 59.437746
+      lng: 24.748497
     radius: 20
 
   # Hostel
@@ -64,7 +65,7 @@ window.initMap = ->
     content: """
       <h3>Welcome Hostel</h3>
       <p class="lead">Rotermanni 12</p>
-      <p><a href="https://welcomehostel.ee/en/">welcomehostel.ee</a></p>
+      <p><a href="https://welcomehostel.ee/en/" target="_blank">welcomehostel.ee</a></p>
 """
   hostel.addListener 'click', -> hostelInfo.open map, hostel
 
@@ -94,36 +95,38 @@ window.initMap = ->
       <p class="lead">Vene 6, Tallinn</p>
       <p>Workshops venue. Come into the tunnel from Vene street. <br />Ring the bell next to the first door on the right.
       Workshops will take place on the 2nd and 3rd floors.</p>
+      <p><a href="https://kultuur.ee" target="_blank">kultuur.ee</a></p>
 """
   vene.addListener 'click', -> veneInfo.open map, vene
 
 
-  # Rahvaülikool
+  # Hopner
   new google.maps.Circle
     strokeColor: '#a43a5a'
     fillOpacity: 0
     strokeWeight: 4
     map: map
     center:
-      lat: 59.434815
-      lng: 24.753262
+      lat: 59.437359
+      lng: 24.746015
     radius: 20
 
-  uni = new google.maps.Marker
+  hopner = new google.maps.Marker
     position:
-      lat: 59.434815
-      lng: 24.753262
+      lat: 59.437359
+      lng: 24.746015
     map: map
-    title: 'Tallinna Rahvaülikool'
+    title: 'Hopner\'s house'
     label: '3'
 
-  uniInfo = new google.maps.InfoWindow
+  hopnerInfo = new google.maps.InfoWindow
     content: """
-      <h3>Tallinna Rahvaülikool</h3>
-      <p class="lead">Estonia pst 5a, Tallinn, Estonia</p>
-      <p>Workshops venue.</p>
+      <h3>Hopner's house</h3>
+      <p class="lead">Raekoja plats 18, Tallinn, Estonia</p>
+      <p>Workshops venue</p>
+      <p><a href="http://www.hopnerimaja.eu/Maja" target="_blank">hopnerimaja.eu</a></p>
 """
-  uni.addListener 'click', -> uniInfo.open map, uni
+  hopner.addListener 'click', -> hopnerInfo.open map, hopner
 
   # Bar
   new google.maps.Circle
@@ -148,9 +151,38 @@ window.initMap = ->
     content: """
       <h3>Nāga Naga bar</h3>
       <p class="lead">Uus 25, Tallinn</p>
+      <p>Food venue after the shows</p>
+      <p><a href="https://naganaga.ee/" target="_blank">naganaga.ee</a></p>
 """
   bar.addListener 'click', -> barInfo.open map, bar
 
+  # Terrace
+  new google.maps.Circle
+    strokeColor: '#a43a5a'
+    fillOpacity: 0
+    strokeWeight: 4
+    map: map
+    center:
+      lat: 59.443653
+      lng: 24.757344
+    radius: 20
+
+  terrace = new google.maps.Marker
+    position:
+      lat: 59.443653
+      lng: 24.757344
+    map: map
+    title: 'Suveterrass'
+    label: '4'
+
+  terraceInfo = new google.maps.InfoWindow
+    content: """
+      <h3>Suveterrass</h3>
+      <p class="lead">Kai 5, Tallinn</p>
+      <p>Food venue after the shows, on the last night only</p>
+      <p><a href="https://suveterrass.getaway.ee">suveterrass.getaway.ee</a></p>
+"""
+  terrace.addListener 'click', -> terraceInfo.open map, terrace
 
 # Open a modal window with the set modal's content loaded
 # url should be in the form workshops/do-it-yourself.html (no leading # or /)
@@ -266,17 +298,3 @@ $ ->
   # This allows linking directly to some specific modals
   if window.location.hash
     showModal window.location.hash.replace('#','')
-
-  # Troll Kevin Miller by request of Princess
-  a = -> 
-    alt = $(this).attr('src')
-    $(this).attr('src', $(this).data('alt-src'))
-    $(this).data('alt-src', alt)
-  b = -> 
-    alt = $(this).attr('src')
-    $(this).attr('src', $(this).data('alt-src'))
-    $(this).data('alt-src', alt)
-
-  $('.img-kevin').hover a, b
-
-  $('#next-tilt-modal').modal('show');

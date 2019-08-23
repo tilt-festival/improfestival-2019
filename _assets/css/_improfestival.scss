@@ -49,6 +49,12 @@ i {
     height: 100%;
   }
 
+
+  .impro-10 {
+    width: 4em;
+    height: 2em;
+  }
+
   img {
     height: 80%;
     margin: 0 auto;
@@ -233,7 +239,7 @@ button {
 .row.footer-bg {
   background-image: asset_url('footer_narrow.jpg');
   margin-bottom: -9em;
-  min-height: 30em;
+  min-height: 32em;
 }
 
 // Last footer row
@@ -301,6 +307,8 @@ blockquote {
 
 .col-schedule {
 
+  margin-bottom: 2em;
+
   h4 {
     display: table;
     height: 4em;
@@ -315,10 +323,10 @@ blockquote {
   }
 
   img {
-    @include clip-down(10%);
     height: 10em;
     margin-bottom: .3em;
     object-fit: cover;
+    object-position: 50% 30%;
     width: 100%;
   }
 
@@ -393,3 +401,4 @@ blockquote {
     margin-top: 2em;
   }
 }
+

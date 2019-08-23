@@ -1,18 +1,15 @@
-_Kuuendal rahvusvahelisel improteatrite festivalil Tilt on au võõrustada külalisi lähemalt ja kaugemalt.
-Et tegemist on meisterimprotajatega, on nad rõõmuga nõus vastu võtma ka väljakutseid, mis on suuremad
-kui lihtsalt eimillestki etenduse loomine! Mixer show etenduse päeval on erinevatest truppidest ja erineva
-kogemustepagasiga improtajaid kohtunud töötoas ning alles seal juhendaja abiga ette valmistanud õhtul lavale jõudva
-formaadi. Nii et enam värskemaks minna ei saa! Kuidas see kõik neil õnnestub, näeb juba kohapeal!_
+Seitsmendal rahvusvahelisel improteatrite festivalil Tilt on au võõrustada külalisi lähemalt ja kaugemalt. Et tegemist on meisterimprotajatega, on nad rõõmuga nõus vastu võtma ka väljakutseid, mis on suuremad kui lihtsalt eimillestki etenduse loomine! Mixer show etenduse päeval on erinevatest truppidest ja erineva kogemustepagasiga improtajaid kohtunud töötoas ning alles seal juhendaja abiga ette valmistanud õhtul lavale jõudva formaadi. Nii et enam värskemaks minna ei saa! Kuidas see kõik neil õnnestub, näeb juba kohapeal!
 
-### “Kuradi kolmnurk”. Juhendaja: Katarzyna Chmara (POL)
+## “Sõnadeta: Heliline teos!”. Juhendaja: Stacey Smith (USA)
 
-**Etendus on inglise keeles.**
+Inglise keeles
 
-“Kuradi kolmnurk” (rohkem tuntud Bermuda kolmnurgana) on improviseeritud etenduse nimi, mis on pärit ebamaisest geograafiast ning inspireeritud Fabio Maccionist. Selles näitemängus rikutakse füüsikaseaduste reegleid ning etendus on täis seletamatuid asjade käike, abstraktseid elemente, aga ka päriselust inspireeritud kujundeid. Etendusel ei ole ühte konkreetset vormi, vaid see selgub spontaanselt. Ka publikul on etenduse kujunemisel oluline roll ning nende pakkumised tõlgendatakse füüsiliselt mini-koreograafiaks. Ning sellest, omakorda, saab improviseeritud stseen oma inspiratsiooni.
+Me laulame, kui sõnad otsa saavad. Aga mis saab siis, kui lauludestki sõnad ära võtta? See etendus uurib lähemalt helide kasutamise võimalusi laval ning näitab, kuidas esinejad saavad oma emotsioone võimendada, et luua muusikalisi teoseid, millel pole sõnu. 
 
-### “Mõrvamüsteerium”. Juhendaja: Kayleigh Cassidy (GBR)
+## “Portmanteau”. Juhendaja: Phil Whelans (GBR)
 
-**Etendus on inglise keeles.**
+Inglise keeles 
 
-“Mõrvamüsteerium” ei pruugi veel olla huvitav pealkiri, kuid formaadi sisu on nimest kohe teada. See on mõrvamüsteerium! Selles formaadis töötavad näitlejad ühtse trupina, luues tugevaid stseene ja arhetüüpseid karaktereid läbi füüsiliste ja vokaalsete pakkumiste. 
-Etenduse alguses küsitakse publikult tegelastele suhe, tegevus ja asukoht. Pärast seda pannakse iga stseeni alguses asukoht visuaalselt paika ning seejärel võivad tegelased tegevuspaika siseneda ja stseeniga alustada. Improviseerijad mängivad ühte karakterit ja paljusid erinevaid objekte. Etenduse lõpus otsustab publik hääletuse abil, kes on mõrvar.  
+Kolm või neli tegelast - kellest mõni, mitte ükski või kõik tunnevad teineteist - on ühes asukohas (võimalik, et asukoht on publiku poolt pakutud). Tegelased jäävad sinna, vabatahtlikult või mitte, terveks etenduseks. Nende kolme või nelja suhtlus võiks olla terve etendus. Aga see pole. 
+
+Koosveedetud aja jooksul räägib iga tegelane ühe loo ja iga lugu ärkab laval ellu, enne kui me keskse narratiivi juurde tagasi jõuame, milleks on neli karakterit meie asukohas. Lood võivad olla autobiograafilised, päris, väljamõeldud või mitte ükski eelmainitust. Nad võivad muuta karaktereid “meta” loos ja seega seda lugu edasi arendada. Aga ka mitte. Kõik on võimalik. Just nimelt; see on Portmanteau.

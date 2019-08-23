@@ -1,0 +1,6 @@
+Sander Aleks Paavo on Viljandi Kultuuriakadeemia valguskujundaja eriala viimasel kursusel õppiv tudeng, kelle alaliseks töökohaks on Ugala teater Viljandis. Teatritöö ja ametinimetus valgusmeister kätkeb endas nii etenduste valgusalast teenindamist kui ka aegajalt valguskujunduste loomist. Lisaks klassikalisele teatrile on Sander loonud kujundusi ka mitmetele tantsulavastustele ning vilgutanud tulesid ka kontserditel. 
+
+Improteatrini ning festivalini TILT jõudis Sander tänu oma abikaasale, Mari-Riinule, kes on eelnevatel aastatel hallanud festivali tehnilist poolt. Sel aastal, kui abikaasa tegeleb sotsiaalmeediaga, on Sander Aleks kogu tehnika põhiboss.
+Mõne aasta eest omandas Sander Kultuuriakadeemias ka nätilejaharidust, kuigi need õpingud jäid pooleli, on noor valgustaja väga hästi kursis, mis tunne on olla laval ning kuidas võib just valgus sealset olemist mõjutada. Seetõttu on Sander Aleks improteatri fänn - tal on võimalus toetada lavalolijaid, mõjutada publikut ning olla osa kogu etendusest, aga seda mõnusalt oma puldi taga istudes. 
+
+Lisaks valgustite tassimisele, valguspuldiga möllamisele ja teatrile meeldib Sandrile väga midagi oma kätega teha. Näiteks ehitab ta praegu päris oma talu!

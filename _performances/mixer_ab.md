@@ -1,15 +1,15 @@
 ---
-start: 2018-09-20 18:10
-end: 2018-09-20 19:15
+start: 2019-09-19 18:15
+end: 2019-09-19 19:15
+date: 2019-09-19
 name: performances.names.mixer_ab
 title: performances.titles.mixer_ab
 country: 
 language: eng
 image: performers/square/mixer_ab.jpg
-venue: cinema
+venue: catherine
 sold_out: false
 ticket_url: performances.ticket_links.mixer_ab
-date: 2018-09-20
 ---
 
 <picture>

@@ -13,7 +13,7 @@
         <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 col-schedule">
             <h4 class="text-center hidden-xs">
                 <a href="{{ site.baseurl | append:workshop.url }}" data-toggle="modal" data-target="#modal-details">
-                    {{ workshop.name }}<br/>{% t workshop.title %} <br/> {{ workshop.country | upcase }}</a>
+                    <p>{{ workshop.name }} ({{ workshop.country | upcase }})</p><p>{% t workshop.title %}</p></a>
             </h4>
 
             <a href="{{ site.baseurl | append:workshop.url }}" data-toggle="modal" data-target="#modal-details">
@@ -21,7 +21,7 @@
                     <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                          data-src="{% asset '{{workshop.image}}' @path %}"
                          alt="{{ workshop.name }}"
-                         class="b-lazy img-responsive center-block {% if workshop.title == 'workshops.titles.max_q_finding_the_next_beat' %}img-kevin" data-alt-src="{% asset 'workshops/kevin_bear.jpg' @path %}{% endif %}" />
+                         class="b-lazy img-responsive center-block" />
 
                     {% if workshop.sold_out %}
                         <h3>{% t content.sold_out %}</h3>

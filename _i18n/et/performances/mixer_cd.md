@@ -1,20 +1,15 @@
-_Kuuendal rahvusvahelisel improteatrite festivalil Tilt on au võõrustada külalisi lähemalt ja kaugemalt.
-Et tegemist on meisterimprotajatega, on nad rõõmuga nõus vastu võtma ka väljakutseid, mis on suuremad
-kui lihtsalt eimillestki etenduse loomine! Mixer show etenduse päeval on erinevatest truppidest ja erineva
-kogemustepagasiga improtajaid kohtunud töötoas ning alles seal juhendaja abiga ette valmistanud õhtul lavale jõudva
-formaadi. Nii et enam värskemaks minna ei saa! Kuidas see kõik neil õnnestub, näeb juba kohapeal!_
+Seitsmendal rahvusvahelisel improteatrite festivalil Tilt on au võõrustada külalisi lähemalt ja kaugemalt. Et tegemist on meisterimprotajatega, on nad rõõmuga nõus vastu võtma ka väljakutseid, mis on suuremad kui lihtsalt eimillestki etenduse loomine! Mixer show etenduse päeval on erinevatest truppidest ja erineva kogemustepagasiga improtajaid kohtunud töötoas ning alles seal juhendaja abiga ette valmistanud õhtul lavale jõudva formaadi. Nii et enam värskemaks minna ei saa! Kuidas see kõik neil õnnestub, näeb juba kohapeal!
 
-### “Elas kord...”. Juhendaja: Koray Tarhan (TUR)
+## “Metronoom”. Juhendaja: Václav Wortner (CZE)
 
-**Etendus on inglise keeles.**
+Inglise keeles
 
-Selles formaadis luuakse spontaanseid lugusid kaheksat astet kasutades. Formaat kasutab universaalset lugude struktuuri, mis käivitab visuaalide abil lihtsasti nii improviseerijate kui ka publiku kujutlusvõime. Nii laval kui publikus olijad kogevad ainulaadsel viisil pikk-formaadi ja karakteriloome põhialuseid. Improviseerijad toovad publiku kujutlused vaatajateni läbi näitlemise ja laulu. 
+Muusika on selle etenduse järeleandmatu metronoom. See paneb näitlejad oma kehadega stseene maalima, luues pilte, kompositsioone, maastikke ja keskkondi. Kui muusika hääbub, ilmuvad karakterid, süžeed, vestlused ja lood, mis on inspireeritud varem nähtud piltidest. Meie elude metronoom aga tiksub edasi, ajades lõpuks iga loo laiali ning ajendades näitlejaid jälle füüsilisi pilte looma, mis inspireerivad uusi lugusid… Selline on elu ja “Metronoomi” olemus.  
 
-“Elas kord…” formaati on mängitud ja esitletud konverentsidel nagu AIN San Francisco
-Conference, Global Improvisation Initiative Conference Los Angeleses ja Pekingis, lisaks Ljubljana ja Istanbuli improteatrite festivalidel. 
+## “Pilveatlas”. Juhendaja: Aree Witoelar (IDN/NOR) 
 
-### “Hääletult”. Juhendaja: Morgan Mansouri (FRA)
+Inglise keeles
 
-**Etendus on pantomiimis.**
+“Pilveatlas”, inspireeritud David Mitchelli paljukiidetud romaanist, räägib eepilise loo inimkonnast kuue erineva sisuliini kaudu kuuel erineval ajastul. Esinejad loovad sellise etenduse, mis on täielikult improviseeritud publiku ettepanekute põhjal. “Pilveatlas” on ideaalne improetendus suurtele gruppidele kasutades ära kõiki erinevaid lava nurki, tempot ja stiile. See formaat sobib ideaalselt rahvusvahelisele grupile, toomaks lavale inimkonna teekonda läbi kultuuri ja aja. 
 
-Kuidas me igapäevaelus toime tuleme kui tahame ennast sõnadeta väljendada? Selles etenduses kasutatakse dialoogi asemel pantomiimi ning kehakeelekunsti, et tuua publikuni erinevaid olukordi, tõeseid või mitte, kus rääkimine ei ole võimalik. Näitlejad uurivad inimkeha kui töövahendi kasutamise võimalusi komöödias ning lugude jutustamisel läbi pantomiimi, klouni ja füüsilisuse, kasutamata üleliigset dialoogi. 
+* Pilveatlas on Aree Witoelari loodud formaat, millega Impro Neuf International Norras end esitleb.

@@ -28,15 +28,15 @@ stats:
 
 map:
   food: Söök / jook
-  food_address: Nāga Naga baar (Uus 25)
+  food_address: Nāga Naga baar (Uus 25) / Suveterrass (Kai 5)
   hostel: Hostel
-  hostel_address: Welcome Hostel, Rotermanni 12
+  hostel_address: Welcome Hostel (Rotermanni 12)
   performance_venue: Performance Venue
-  performance_venue_address: The Cinema (Kinomaja), Uus 3
+  performance_venue_address: St. Catherine's Church (Vene 14a)
   workshop_venue: Workshop Venue
   workshop_venue_address: >
     Tallinna Rahvaülikooli Teatrikeskus (Vene 6)
-    and Tallinna Rahvaülikool (Estonia pst 5a)
+    and Hopner's house (Raekoja plats 18)
 
 month:
   january: January
@@ -53,63 +53,66 @@ month:
   december: December
 workshops:
   titles:
-    always_with_pleasure: Always With Pleasure
-    feedback_in_improv_world: Feedback In Improv World
-    feel_me: Feel Me
-    from_tradition_to_improv: From Tradition to Improv
-    max_q_finding_the_next_beat: 'Max Q: Finding the Next Beat'
-    shifting_gears: Shifting Gears
-    the_physical_comedian: The Physical Comedian
-    the_strategy_behind_a_character: The Strategy Behind a Character
+    a_simple_lovestory: A Simple Lovestory
+    be_a_troublemaker_fuel_the_scene: Be a Troublemaker, Fuel the Scene
+    being_a_dream_partner: Being a Dream Partner
+    discovering_songs: Discovering Songs
+    fiendish_plotting: Fiendish Plotting
+    how_to_make_improv_easy: How to make improv easy
+    jump_on_it: Jump on it
+    silence_loud_and_clear: "Silence: Lound & Clear"
+    stand_up_and_improv: Stand-up and Improv
+    the_mono_scene: 'The ICC Theatre long-form structure “The Mono scene”'
+    trust_your_sexuality: Trust Your Sexuality
+    unplug_your_brain: Unplug Your Brain
 performances:
   titles:
-    divas_poulpe: D I V A S (LVA) - “Five Minutes Later” & Poulpe (FRA) - “(G)oldies”
-    freiwild_peter_emma: frei.wild Improvisationstheater Berlin (DEU) - “Lucky Losers” & Peter More ja Emma Wessleus (GBR) - “Mørdsäga”
-    istanbulimpro_easylaughs: Istanbulimpro (TUR) - “Pulkade ja rätikute taga peituvad lood” & easylaughs (NLD) - “Tarantino”
-    jaa_impeerium: Jaa !mproteater (EST) - “Castaway” & Improteater IMPEERIUM (EST) - “Romantic Comedy”
-    kiki_kevin_acaprov: Kiki and Kevin (NLD/USA) - "Helmet Thieves" & Acaprov (GBR) - “AcaTilt”
-    mixer_ab: '"Degrees of Separation" & "Follow the Leaver"'
-    mixer_cd: '"Once Upon a Time..." & "In Silent"'
-    mixer_ef: '"Devil’s Triangle" & "Long-form Murder Mystery"'
-    tahel_ruutu: Rahel ja Timo (EST) - “Two Chairs” & Ruutu10 (EST) - “A Conversation”
-    festival_pass: FESTIVAL PASS
-    supporter_pass: SUPPORTER PASS
+    dan_ella_doris: Dan & Ella (FRA/ESP) - “Origami Swan” & Doris Likes Everything (FIN) - "Loser Circus"
+    jaa_ruutu10: Jaa !mproteater ja Improkutsikad (EST) - “Maestro” & Ruutu10 (EST) - "That was a joke, right?!"
+    rahel_mihkel_impeerium: Rahel ja Mihkel (EST) - “Missed Calls” & Improteater IMPEERIUM (EST) – “On the writer’s exclusive texts”
+    speakeasy_7_women: The Improv Speakeasy (NOR) - “Alice in Improvland” & 7 Women of Different Ages (POL)
+    troika_icc: Troika (LVA/RUS) - “Journey” & ICC Theatre (DNK)
+    mixer_ab: '“Bonnie & Clyde” & “The Dropthrough”'
+    mixer_cd: 'Mixer shows: “The Metronome” & “Cloud Atlas”'
+    mixer_ef: '“Sõnadeta: Heliline teos!” & “Portmanteau”'
+    us_boys_stacey: 'Us boys who go out together (CZE): “The Bohemian Tragedy” & Stacey Smith (USA) - “Stacejam”'
+    festival_pass: Festival pass
+    supporter_pass: Supporters pass
   names:
-    divas_poulpe: D I V A S (LVA) & Poulpe (FRA)
-    freiwild_peter_emma: frei.wild Improvisationstheater Berlin (DEU) & Peter More and Emma Wessleus (GBR)
-    istanbulimpro_easylaughs: Istanbulimpro (TUR) & easylaughs (NLD)
-    jaa_impeerium: Jaa !mproteater (EST) & Improteater IMPEERIUM (EST)
-    kiki_kevin_acaprov: Kiki and Kevin (NLD/USA) & Acaprov (GBR)
-    mixer_ab: '"Degrees of Separation" & "Follow the Leaver"'
-    mixer_cd: '"Once Upon a Time..." & "In Silent"'
-    mixer_ef: '"Devil’s Triangle" & "Long-form Murder Mystery"'
-    tahel_ruutu: Rahel ja Timo (EST) & Ruutu10 (EST)
-    festival_pass: FESTIVALI PASS
-    supporter_pass: TOETAJA PASS
+    dan_ella_doris: Dan & Ella (FRA/ESP) & Doris Likes Everything (FIN)
+    jaa_ruutu10: Jaa !mproteater ja Improkutsikad (EST) & Ruutu10 (EST)
+    rahel_mihkel_impeerium: Rahel ja Mihkel (EST) & Improteater IMPEERIUM (EST)
+    speakeasy_7_women: The Improv Speakeasy (NOR) & 7 Women of Different Ages (POL)
+    troika_icc: Troika (LVA/RUS) & ICC Theatre (DNK)
+    mixer_ab: '“Bonnie & Clyde” & “The Dropthrough”'
+    mixer_cd: '“Metronoom” & “Pilveatlas”'
+    mixer_ef: '“No Lyrics: The Sonic Piece!” & “Portmanteau”'
+    us_boys_stacey: 'Us boys who go out together (CZE) & Stacey Smith (USA)'
+    festival_pass: Festival pass
+    supporter_pass: Supporters pass
 
   ticket_links:
-    divas_poulpe: https://
-    freiwild_peter_emma: https://
-    istanbulimpro_easylaughs: https://
-    jaa_impeerium: https://
-    kiki_kevin_acaprov: https://
-    mixer_ab: https://
-    mixer_cd: https://
-    mixer_ef: https://
-    tahel_ruutu: https://
-    all_performances: https://
-    day_tickets: https://
-    festival_pass: https://
-    supporter_pass: https://
+    dan_ella_doris: https://fienta.com/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-dan-ella-fraesp-doris-likes-everything-fin?6d32855da127ae1d4ce97caac8671e55
+    jaa_ruutu10: https://fienta.com/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-jaa-mproteater-ja-improkutsikad-est-ruutu10-est?8ce1855d622d009999cc0fb37c8b82cc
+    rahel_mihkel_impeerium: https://fienta.com/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-rahel-ja-mihkel-est-improteater-impeerium-est?1a75c71fcdaca8fb7e87a91ad1ff4278
+    speakeasy_7_women: https://fienta.com/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-the-improv-speakeasy-nor-7-women-of-different-ages-pol?90283566fc0bc140ad45e2b3a8f565b9
+    troika_icc: https://fienta.com/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-troika-lvarus-icc-theatre-dnk?40a3d0cb4c3228c83dec39f3dbeac0be 
+    mixer_ab: https://fienta.com/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-bonnie-clyde-the-dropthrough?9ca7c40b1361424f623009b7bf78fae1
+    mixer_cd: https://fienta.com/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-metronoom-pilveatlas?4afe7b80a0fbd421e525f322a975df84
+    mixer_ef: https://fienta.com/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-sonadeta-heliline-teos-portmanteau?1dc4894fef4ac9fc920aa3546f68263f
+    us_boys_stacey: https://fienta.com/seitsmes-rahvusvaheline-improteatrite-festival-tilt-esitleb-us-boys-who-go-out-together-cze-stacey-smith-usa?cb26b8fcb96a8a12452aa0724015bdd9
+    festival_pass: https://fienta.com/seitsmes-rahvusvaheline-improteatrite-festival-tilt-festivali-pass?44d940b3760ce8ec653a43c3a130ac50
+    supporter_pass: https://fienta.com/seitsmes-rahvusvaheline-improteatrite-festival-tilt-toetaja-pass?977c05032d065a225d05f36cbb72f382
   in_eng: in English
   in_est: in Estonian
   in_mixed: Mixed languages
 venues:
-  cinema: "The Cinema (Kinomaja)"
+  catherine: "St. Catherine's Church (Vene 14a)"
   vene: 'Vene 6 (Rahvaülikooli Teatrikeskus)'
   uni: Estonia pst 5a (Tallinna Rahvaülikool)
   bar: Nāga Naga bar
   hostel: Welcome Hostel
+  hopner: 'Hoovimaja, Hopneri maja, Raekoja plats 18'
 
 titles:
   days_count: 3 days
