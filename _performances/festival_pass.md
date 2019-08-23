@@ -1,5 +1,5 @@
 ---
-start: 2019-09-19 18:00
+start: 2019-09-22 22:45
 end: 2019-09-22 22:45
 date: 2019-09-22
 name: performances.names.festival_pass
