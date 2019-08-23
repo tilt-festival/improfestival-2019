@@ -1,7 +1,7 @@
 ---
-start: 2019-09-22 22:45
-end: 2019-09-22 22:45
-date: 2019-09-22
+start: 2019-09-21 22:45
+end: 2019-09-21 22:45
+date: 2019-09-21
 name: performances.names.supporter_pass
 title: performances.titles.supporter_pass
 country: 
