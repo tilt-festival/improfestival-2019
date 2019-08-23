@@ -206,4 +206,13 @@
   .img-padded {
     padding-top: 2em;
   }
+
+  img[alt="Ando Roots"]:hover {
+    opacity: 1;
+    transition: opacity .5s ease-out;
+  }
+
+  img[alt="Ando Roots"]:hover {
+    opacity: 0.0;
+  }
 }
