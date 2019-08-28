@@ -16,7 +16,8 @@
                 <a href="{{ site.baseurl | append:performer.url }}" data-toggle="modal" data-target="#modal-details">
                     {% t performer.name %}</a>
             </h4>
-            <a href="{{ site.baseurl | append:performer.url }}" data-toggle="modal" data-target="#modal-details">
+            {% capture ticket_url %}{% t performer.ticket_url %}{% endcapture %}
+            <a href="{{ site.baseurl | append:performer.url }}" data-toggle="modal" data-ticket-url="{{ ticket_url}}" data-target="#modal-details">
                 <div class="image-container">
                     {% capture alt %}{% t performer.name %}{% endcapture %}
 
@@ -26,9 +27,7 @@
                         <img src="{% asset "{{ performer.image }}" @path %}" alt="{{ alt | escape }}" />
                     </picture>
 
-                    {% if performer.sold_out %}
-                    <h3>{% t content.sold_out %}</h3>
-                    {% endif %}
+                    <h3 {% unless performer.sold_out %}class="hidden"{% endunless %}>{% t content.sold_out %}</h3>
                 </div>
             </a>
         </div>

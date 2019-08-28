@@ -196,7 +196,7 @@ showModal = (url) ->
   # Forcing the prepending of .href helps mitigate some XSS attacks
   url = "#{getPageUrl()}#{url}.html"
 
-  $('#modal-details').find('.modal-content').html('').load(url)
+  $('#modal-details').find('.modal-content').html('').load(url, updateModalTicketLink)
   $('#modal-details').modal 'show'
 
 # Return the URL of the current page, without the .hash part
@@ -246,6 +246,22 @@ $(document).keydown (e) ->
     when 'ArrowLeft' then openPreviousModal()
     when 'ArrowRight' then openNextModal()
     else return
+
+
+updateModalTicketLink = ->
+  button = $(this).find('.btn-buy')[0]
+  remainingTickets = window.tickets[button.href]
+  console.log window.tickets
+  if remainingTickets is 0 or remainingTickets is false
+    $(button).addClass 'hidden'
+
+updateTicketCounts = ->
+  
+  for url, count of window.tickets
+    # Show "Sold out" message if tickets are not available for the event
+    # Shown on main schedule view
+    if count is 0 or count is false
+      $('.col-schedule').find('a[data-ticket-url="' + url + '"]').find('h3.hidden').removeClass('hidden')
 
 $ ->
 
@@ -307,3 +323,8 @@ $ ->
   # This allows linking directly to some specific modals
   if window.location.hash
     showModal window.location.hash.replace('#','')
+
+  # Wait for available ticket counts to load, then update
+  # This is a "dumb" way of doing it, assuming counts load in 3s.
+  # Better version would be async/event-based readyness check
+  setTimeout updateTicketCounts, 3000
