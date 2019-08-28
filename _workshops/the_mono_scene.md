@@ -8,7 +8,7 @@ country: dnk
 image: workshops/stefan_pagels_andersen.jpg
 sold_out: false
 venue: hopner
-ticket_url: https://fienta.com/et/tilt-workshop-stefan-pagels-andersen-dnk-the-icc-theatre-long-form-structure-the-mono-scene?c67d03840ad07ae18d42a4dbb09d5b46
+ticket_url: workshops.ticket_links.the_mono_scene
 ---
 
 The award-winning improv team Meanwhile, Back at the Lab, that Stefan performs in have their very own unique format. The Mono scene with quick flashbacks to discover the characters background stories. This is a real treat to watch and even more fun to perform. This format requires a lot from the improvisers to also be aware of the bigger picture of

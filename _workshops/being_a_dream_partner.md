@@ -8,7 +8,7 @@ country: idn/nor
 image: workshops/aree_witoelar.jpg
 sold_out: false
 venue: vene
-ticket_url: https://fienta.com/et/aree-witoelar-idnnor-being-a-dream-partner?a7f4b53c6e2ef9a89e9a6b0ed11530e0
+ticket_url: workshops.ticket_links.being_a_dream_partner
 ---
 
 Be someone everyone wants to play with. We look at how to be an engaging, happy and fun partner. Good improvisers should be able to play with anyone - no matter if they are veterans or beginners, we can always elevate our partner and make them look good. You’ll learn advanced listening and group mind, but most of all, the right attitude to do good improv. Soon enough, everyone will want you to be part of their team.

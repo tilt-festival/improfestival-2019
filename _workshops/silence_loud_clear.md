@@ -8,7 +8,7 @@ country: esp
 image: workshops/ella_galt.jpg
 sold_out: false
 venue: hopner
-ticket_url: https://fienta.com/et/tilt-workshop-ella-galt-esp-silence-loud-clear?83bcc02f218dcc457d6f8a69dcf83cd4
+ticket_url: workshops.ticket_links.silence_loud_and_clear
 ---
 
 In life, some of the most profound, moving or hilarious experiences play out in total silence. In this workshop, we will learn to lean on that familiar human state - silence - on the stage, discovering it’s unique theatrical power.

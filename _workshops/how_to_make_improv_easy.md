@@ -8,7 +8,7 @@ country: dnk
 image: workshops/stefan_pagels_andersen.jpg
 sold_out: false
 venue: hopner
-ticket_url: https://fienta.com/et/tilt-workshop-stefan-pagels-andersen-dnk-how-to-make-improv-easy?b61cb393c3198df36332ae876059df1f
+ticket_url: workshops.ticket_links.how_to_make_improv_easy
 ---
 
 The easiest way to improvise it to speak from a moment of truth, and connect on emotions. This workshop teaches you how easy it can be to connect with your scene partner on positive emotions. We’ll be working on heavily agreeing and learn to look for our “and” in the “yes, and”.

@@ -8,7 +8,7 @@ country: usa
 image: workshops/stacey_smith.jpg
 sold_out: false
 venue: hopner
-ticket_url: https://fienta.com/et/tilt-workshop-malgorzata-rozalska-pol-a-simple-lovestory?1290a6f06c3946239e0f44eab6f7f64f
+ticket_url: workshops.ticket_links.jump_on_it
 ---
 
 Let's edit. Learn new and exciting ways to edit and know why/when they will heighten and support the scene in progress. Follow the joy and follow the reality we already know. 

@@ -8,7 +8,7 @@ country: bel
 image: workshops/jeron_dewulf.jpg
 sold_out: false
 venue: hopner
-ticket_url: https://fienta.com/et/jeron-dewulf-bel-stand-up-and-improv?20658f44ebd6c8cad8f2ad2da2ecda9e
+ticket_url: workshops.ticket_links.stand_up_and_improv
 ---
 
 As a professional improviser and stand-up comedian, Jeron likes to combine the best of two worlds. As an improviser, sometimes making a joke might kill the story. As a stand-up comedian, it is scary to leave your fixed set and improvise with the audience and still be funny. In this workshop, we touch two worlds. Two worlds that might look opposing from the outside but feel really good from the inside.

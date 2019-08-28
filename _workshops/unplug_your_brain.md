@@ -8,7 +8,7 @@ country: fra
 image: workshops/dan_seyfried.jpg
 sold_out: false
 venue: vene
-ticket_url: https://fienta.com/et/tilt-workshop-dan-seyfried-fra-unplug-your-brain-3722?8851d39fe868a3ab99d16a2a7573682a
+ticket_url: workshops.ticket_links.unplug_your_brain
 ---
 
 

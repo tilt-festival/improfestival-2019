@@ -8,7 +8,7 @@ country: gbr
 image: workshops/phil_lunn.jpg
 sold_out: false
 venue: vene
-ticket_url: https://fienta.com/et/tilt-workshop-phil-lunn-gbr-discovering-songs?0bd95c096e2ee6fac523602e9ad2b780
+ticket_url: workshops.ticket_links.discovering_songs
 ---
 
 OK, so our scene has led us into the perfect moment for a song. Great. What happens next? What makes a great song?

@@ -8,7 +8,7 @@ country: pol
 image: workshops/małgorzata_różalska.jpg
 sold_out: false
 venue: vene
-ticket_url: https://fienta.com/et/tilt-workshop-malgorzata-rozalska-pol-a-simple-lovestory?1290a6f06c3946239e0f44eab6f7f64f
+ticket_url: workshops.ticket_links.a_simple_lovestory
 ---
 
 Bill Hicks said in his stand up something that many screenwriters agree on – that all we do is driven by two forces – love and fear. Because of love and fear we can cross our boundaries.

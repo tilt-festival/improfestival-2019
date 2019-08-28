@@ -8,7 +8,7 @@ country: gbr
 image: workshops/phil_whelans.jpg
 sold_out: false
 venue: vene
-ticket_url: https://fienta.com/et/tilt-workshop-phil-whelans-gbr-fiendish-plotting?faa41cda0ef3cedb51eddaf29df17179
+ticket_url: workshops.ticket_links.fiendish_plotting
 ---
 
 It’s nice to hear laughter from an audience but how often do we hear them gasp – “How did she know the key would be missing?” – or not hear them at all because they’re holding their breath with the unbearable tension of it all? Can we be more ambitious with our plotting? How can we make plot connections through which we look not just clever, but attractive and popular*?

@@ -8,7 +8,7 @@ country: ger
 image: workshops/sophia_lierenfeld.jpg
 sold_out: false
 venue: hopner
-ticket_url: https://fienta.com/et/tilt-workshop-sophia-lierenfeld-ger-trust-your-sexuality?080bcada3af83d569d1d21263790a03d
+ticket_url: workshops.ticket_links.trust_your_sexuality
 ---
 
 In improv we learn to trust our impulses - but what about the flirty, sexual ones?
