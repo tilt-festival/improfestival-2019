@@ -1,20 +1,20 @@
 {
   "@context": "http://schema.org",
   "@type": "Festival",
-  "endDate": "2018-09-22",
-  "startDate": "2018-09-20",
+  "endDate": "2019-09-19",
+  "startDate": "2018-09-21",
   "eventStatus": "EventScheduled",
   "typicalAgeRange":"All Ages",
   "location": {
     "@type": "EventVenue",
-    "name": "{{ site.data.venues.soprus.name }}",
-    "address": "{{ site.data.venues.soprus.address }}"
+    "name": "{{ site.data.venues.catherine.name }}",
+    "address": "{{ site.data.venues.catherine.address }}"
   },
   "offers": {
     "@type": "AggregateOffer",
     "category": "primary",
-    "lowPrice": "8.5€",
-    "highPrice": "12.50€",
+    "lowPrice": "5€",
+    "highPrice": "15€",
     "url": "{% t performances.ticket_links.all_performances %}"
   },
   "isAccessibleForFree": false,

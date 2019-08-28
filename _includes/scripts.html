@@ -2,13 +2,9 @@
   window.tickets = {};
 
   window.fientaSettings = {
-   // lightbox background color
    background: 'rgba(193,66,66,0.6)',
-   // modal content border radius
    border_radius: '3px',
-   // selector of links pointing to Fienta event pages
    link_selector: 'a[href*="fienta.com"]', 
-   // referral name which is added to orders from homepage
    ref: 'homepage',
    onTicketsAvailableReady: function (elem, count) {
     window.tickets[elem[0].href] = count;
