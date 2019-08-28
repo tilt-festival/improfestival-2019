@@ -187,12 +187,15 @@ window.initMap = ->
 # Open a modal window with the set modal's content loaded
 # url should be in the form workshops/do-it-yourself.html (no leading # or /)
 showModal = (url) ->
+  
+  url = url.replace(window.location.pathname, '')
 
   # Append the modal's ID to the URL's hash
   window.location.hash = url.replace('.html', '')
 
   # Forcing the prepending of .href helps mitigate some XSS attacks
   url = "#{getPageUrl()}#{url}.html"
+
   $('#modal-details').find('.modal-content').html('').load(url)
   $('#modal-details').modal 'show'
 
@@ -207,13 +210,19 @@ equalizeColumns = ->
 # Return the index of the currently open modal
 # Index is taken from the global schedule (data-index) attribute
 getCurrentModalIndex = ->
-  currentUrl = window.location.hash.replace('#','') + '.html'
+  
+  currentUrl = window.location.pathname + window.location.hash.replace('#','') + '.html'
+
+  # Replace double slashes at the beginning of the URI (pathname + hash)
+  currentUrl = currentUrl.replace(/^\/\//, '/')
+  
   currentElement = 'a[href="'+currentUrl+'"][data-index]'
   return parseInt($(currentElement).data('index'))
 
 # Given an event index (global schedule), return a URL fragment to it
 getModalURLByIndex = (index) ->
   el = $('a[data-index="' + index + '"]')
+
   if el.length
     return el.attr('href').replace('.html', '')
   else
