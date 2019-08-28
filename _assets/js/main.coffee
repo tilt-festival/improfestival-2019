@@ -267,7 +267,7 @@ $ ->
 
   # Implement lazy loading of images
   new Blazy
-    offset: 800
+    offset: 1000
     success: (e) ->
       equalizeColumns()
 
