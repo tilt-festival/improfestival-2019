@@ -6,7 +6,7 @@ title: workshops.titles.the_mono_scene
 name: Stefan Pagels Andersen
 country: dnk
 image: workshops/stefan_pagels_andersen.jpg
-sold_out: false
+sold_out: true
 venue: hopner
 ticket_url: workshops.ticket_links.the_mono_scene
 ---
