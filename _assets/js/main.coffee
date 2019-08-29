@@ -3,7 +3,6 @@
 #= require jquery-smooth-scroll/jquery.smooth-scroll.min
 #= require matchHeight/dist/jquery.matchHeight-min
 #= require picturefill/dist/picturefill
-#= require blazy/blazy.min
 #= require fienta
 
 # Create a JS Google Map object and add important location markers to it
@@ -264,12 +263,6 @@ updateTicketCounts = ->
       $('.col-schedule').find('a[data-ticket-url="' + url + '"]').find('h3.hidden').removeClass('hidden')
 
 $ ->
-
-  # Implement lazy loading of images
-  new Blazy
-    offset: 1000
-    success: (e) ->
-      equalizeColumns()
 
   # Smooth out scrolling effect when clicking on a hash link
   $('a[href^="#"]').smoothScroll
