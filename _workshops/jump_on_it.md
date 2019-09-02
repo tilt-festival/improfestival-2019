@@ -6,7 +6,7 @@ title: workshops.titles.jump_on_it
 name: Stacey Smith
 country: usa
 image: workshops/stacey_smith.jpg
-sold_out: false
+sold_out: true
 venue: hopner
 ticket_url: workshops.ticket_links.jump_on_it
 ---

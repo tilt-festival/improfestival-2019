@@ -6,7 +6,7 @@ title: workshops.titles.a_simple_lovestory
 name: Małgorzata Różalska
 country: pol
 image: workshops/małgorzata_różalska.jpg
-sold_out: false
+sold_out: true
 venue: vene
 ticket_url: workshops.ticket_links.a_simple_lovestory
 ---
