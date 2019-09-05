@@ -2,7 +2,7 @@
 
 Inglise keeles
  
-Mis juhtub, kui Moraavia näitleja, Austraalia tsirkuseartist, Slovakkia miim ja Saksa-Tšehhi polüglotist impro imelaps kohtuvad? Us boys who go out together on segu näitlejatest ja esinejatest, kelle taust varieerub alates klassikalisest draamateatrist kuni tantsu, tsirkuse ja füüsilise teatrini. Nad kohtusid Prahas Academy of Performing Arts vabavormi improteatri tundides ja on sellest ajast saati koos esinenud. Nende põhiliseks eesmärgiks on uurida praktiliselt täiesti vaba improteatrit, millel ei ole mitte mingeid etteantud struktuure, keskendudes oma peamisele väljendusvormile - füüsilisusele ja liikumisele. Nad otsivad ja arendavad pidevalt oma stiili, mis koosneb mustast tšehhi huumorist, liikumisest ja eriti halvast maitsest rahvalaulude osas. 
+Mis juhtub, kui Moraavia näitleja, Austraalia tsirkuseartist, Slovakkia miim ja Tšehhi polüglotist impro imelaps kohtuvad? Us boys who go out together on segu näitlejatest ja esinejatest, kelle taust varieerub alates klassikalisest draamateatrist kuni tantsu, tsirkuse ja füüsilise teatrini. Nad kohtusid Prahas Academy of Performing Arts vabavormi improteatri tundides ja on sellest ajast saati koos esinenud. Nende põhiliseks eesmärgiks on uurida praktiliselt täiesti vaba improteatrit, millel ei ole mitte mingeid etteantud struktuure, keskendudes oma peamisele väljendusvormile - füüsilisusele ja liikumisele. Nad otsivad ja arendavad pidevalt oma stiili, mis koosneb mustast tšehhi huumorist, liikumisest ja eriti halvast maitsest rahvalaulude osas. 
  
 Us boys who go out together näitlejad on: Šimon Pliska, Lukas Blaha Bliss, Andrej Lyga, Václav Wortner.
  

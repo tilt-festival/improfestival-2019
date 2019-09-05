@@ -2,7 +2,7 @@
 
 In English
  
-What happens when a Moravian actor, Australian circus performer, Slovakian mime and German-Czech polyglot improv wizzkid meet? The boys who go out together are a mix of actors and performers with various backgrounds, ranging from classical drama theatre, dance, circus and physical theatre. They met during freeform improv classes at the Academy of Performing Arts in Prague and have been performing ever since. With the main purpose of exploring essentially total and utter free theatre improvisation without any structures ahead given, they concentrate on physicality and movement as their main form of expression. They search and keep learning their own language, consisting of dark Czech humor, movement improv and an exquisitely bad taste in folklore singing.
+What happens when a Moravian actor, Australian circus performer, Slovakian mime and Czech polyglot improv wizzkid meet? The boys who go out together are a mix of actors and performers with various backgrounds, ranging from classical drama theatre, dance, circus and physical theatre. They met during freeform improv classes at the Academy of Performing Arts in Prague and have been performing ever since. With the main purpose of exploring essentially total and utter free theatre improvisation without any structures ahead given, they concentrate on physicality and movement as their main form of expression. They search and keep learning their own language, consisting of dark Czech humor, movement improv and an exquisitely bad taste in folklore singing.
  
 Us boys are: Šimon Pliska, Lukas Blaha Bliss, Andrej Lyga, Václav Wortner.
  
