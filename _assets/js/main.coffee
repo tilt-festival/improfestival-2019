@@ -148,7 +148,7 @@ window.initMap = ->
     content: """
       <h3>Hopner's house</h3>
       <p class="lead">Raekoja plats 18, Tallinn, Estonia</p>
-      <p>Workshops venue</p>
+      <p>Workshops venue (Dörnse hall)</p>
       <p><a href="http://www.hopnerimaja.eu/Maja" target="_blank">hopnerimaja.eu</a></p>
 """
   hopner.addListener 'click', -> hopnerInfo.open map, hopner
