@@ -6,7 +6,7 @@ title: workshops.titles.unplug_your_brain
 name: Dan Seyfried
 country: fra
 image: workshops/dan_seyfried.jpg
-sold_out: false
+sold_out: true
 venue: vene
 ticket_url: workshops.ticket_links.unplug_your_brain
 ---
