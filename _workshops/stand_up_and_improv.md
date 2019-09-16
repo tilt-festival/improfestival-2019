@@ -7,7 +7,7 @@ name: Jeron Dewulf
 country: bel
 image: workshops/jeron_dewulf.jpg
 sold_out: false
-venue: hopner
+venue: kullo
 ticket_url: workshops.ticket_links.stand_up_and_improv
 ---
 

@@ -68,6 +68,32 @@ window.initMap = ->
 """
   hostel.addListener 'click', -> hostelInfo.open map, hostel
 
+  # Kullo
+  new google.maps.Circle
+    strokeColor: '#a43a5a'
+    fillOpacity: 0
+    strokeWeight: 4
+    map: map
+    center:
+      lat: 59.436627
+      lng: 24.745080
+    radius: 20
+
+  kullo = new google.maps.Marker
+    position:
+      lat: 59.436627
+      lng: 24.745080
+    map: map
+    title: 'Kullo Children\'s Gallery'
+    label: '3'
+
+  kulloInfo = new google.maps.InfoWindow
+    content: """
+      <h3>Kullo Children\'s Gallery</h3>
+      <p class="lead">Kuninga 6, Tallinn</p>
+      <p><a href="http://www.kullo.ee/Kullo_Lastegalerii" target="_blank">kullo.ee</a></p>
+"""
+  kullo.addListener 'click', -> kulloInfo.open map, kullo
 
   # Vene
   new google.maps.Circle

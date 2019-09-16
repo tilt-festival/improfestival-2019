@@ -7,7 +7,7 @@ name: Ella Galt
 country: esp
 image: workshops/ella_galt.jpg
 sold_out: true
-venue: hopner
+venue: kullo
 ticket_url: workshops.ticket_links.silence_loud_and_clear
 ---
 

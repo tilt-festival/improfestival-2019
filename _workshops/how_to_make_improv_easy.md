@@ -7,7 +7,7 @@ name: Stefan Pagels Andersen
 country: dnk
 image: workshops/stefan_pagels_andersen.jpg
 sold_out: false
-venue: hopner
+venue: kullo
 ticket_url: workshops.ticket_links.how_to_make_improv_easy
 ---
 

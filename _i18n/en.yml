@@ -37,6 +37,7 @@ map:
   workshop_venue_address: >
     Tallinna Rahvaülikooli Teatrikeskus (Vene 6)
     and Hopner's house (Raekoja plats 18)
+    and Kullo Children's Gallery (Kuninga 6)
 
 month:
   january: January
@@ -126,6 +127,7 @@ venues:
   bar: Nāga Naga bar
   hostel: Welcome Hostel
   hopner: 'Hoovimaja, Hopneri maja, Raekoja plats 18'
+  kullo: "Kullo Children's Gallery (Kuninga 6)"
 
 titles:
   days_count: 3 days

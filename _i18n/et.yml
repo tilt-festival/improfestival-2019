@@ -40,8 +40,9 @@ venues:
   bar: Nāga Naga bar
   hostel: Welcome Hostel
   vene: 'Vene 6 (Rahvaülikooli Teatrikeskus)'
-  hopner: 'Hoovimaja, Hopneri maja, Raekoja plats 18'
+  hopner: 'Hoovimaja, Hopneri maja (Raekoja plats 18)'
   catherine: 'Katariina kirik (Vene 14a)'
+  kullo: Kullo Lastegalerii (Kuninga 6)
 
 titles:
   days_count: 3 päeva
@@ -78,6 +79,7 @@ map:
   workshop_venue_address: >
     Tallinna Rahvaülikooli Teatrikeskus (Vene 6)
     ja Hopneri hoovimaja (Raekoja plats 18)
+    ja Kullo Lastegalerii (Kuninga 6)
 
 workshops:
   titles:

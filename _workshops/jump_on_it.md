@@ -7,7 +7,7 @@ name: Stacey Smith
 country: usa
 image: workshops/stacey_smith.jpg
 sold_out: true
-venue: hopner
+venue: kullo
 ticket_url: workshops.ticket_links.jump_on_it
 ---
 

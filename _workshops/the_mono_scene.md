@@ -7,7 +7,7 @@ name: Stefan Pagels Andersen
 country: dnk
 image: workshops/stefan_pagels_andersen.jpg
 sold_out: true
-venue: hopner
+venue: kullo
 ticket_url: workshops.ticket_links.the_mono_scene
 ---
 
