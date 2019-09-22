@@ -6,7 +6,7 @@ title: workshops.titles.jump_on_it
 name: Stacey Smith
 country: usa
 image: workshops/stacey_smith.jpg
-sold_out: true
+sold_out: false
 venue: kullo
 ticket_url: workshops.ticket_links.jump_on_it
 ---

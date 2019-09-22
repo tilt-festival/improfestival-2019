@@ -6,7 +6,7 @@ title: workshops.titles.be_a_troublemaker_fuel_the_scene
 name: Václav Wortner
 country: cze
 image: workshops/václav_wortner.jpg
-sold_out: true
+sold_out: false
 venue: vene
 ticket_url: workshops.ticket_links.be_a_troublemaker_fuel_the_scene
 ---
