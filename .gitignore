@@ -1,16 +1,1 @@
-node_modules
-_site
-.sass-cache
-.jekyll-metadata
-_components
-vendor/
-.bundle/
-.asset-cache
-*-touch-icon*.png
-android-chrome-*.png
-browserconfig.xml
-favicon*
-site.webmanifest
-mstile-*.png
-safari-pinned-tab.svg
-.jekyll-cache/
+_site.bak
